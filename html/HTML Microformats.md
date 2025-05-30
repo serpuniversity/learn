@@ -157,3 +157,10 @@ While the W3C has not officially adopted microformats, their influence remains s
 
 The future of microformats appears promising, with persistent support from major platforms and ongoing development of parsing tools. As noted by Håkon Wium Lie, their potential in building the semantic web remains significant despite the lack of new specification development since 2005 (Opera Software CTO, 2005).
 
+## References
+
+- [HTML Using HTML Form Validation And The Constraint Validation API](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Using%20HTML%20Form%20Validation%20And%20The%20Constraint%20Validation%20API.md)
+- [HTML Attribute max](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20max.md)
+- [HTML img The Image Embed Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20img%20The%20Image%20Embed%20Element.md)
+- [HTML dd The Description Details Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20dd%20The%20Description%20Details%20Element.md)
+- [HTML Datalist The HTML Data List Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Datalist%20The%20HTML%20Data%20List%20Element.md)

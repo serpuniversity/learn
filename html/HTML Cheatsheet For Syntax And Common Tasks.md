@@ -172,3 +172,10 @@ Manipulating the DOM allows developers to create responsive and interactive web 
 
 Web development frameworks and libraries often build upon the DOM API to provide higher-level abstractions. Understanding the underlying DOM operations enables developers to effectively use these tools while maintaining control over web page structure and behavior.
 
+## References
+
+- [HTML Using HTML Comments](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Using%20HTML%20Comments.md)
+- [HTML Font](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Font.md)
+- [HTML The Document Body Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Document%20Body%20Element.md)
+- [HTML Using Microformats In HTML](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Using%20Microformats%20In%20HTML.md)
+- [HTML Standard Metadata Names](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Standard%20Metadata%20Names.md)

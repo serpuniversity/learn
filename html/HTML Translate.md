@@ -78,3 +78,10 @@ The translation process requires careful management of both content and structur
 
 Project management features allow for efficient workflow, with translations separated into language-specific folders. Content appears in the browser interface, and untranslated values can be managed through various options, including export settings and string filtering. This structured approach ensures that all content elements, from page titles to image alt text, are properly translated and integrated back into the original HTML structure.
 
+## References
+
+- [HTML Attribute Reference](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Reference.md)
+- [HTML Figcaption The Figure Caption Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Figcaption%20The%20Figure%20Caption%20Element.md)
+- [HTML tr The Table row Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20tr%20The%20Table%20row%20Element.md)
+- [HTML add Javascript To Your web Page](https://github.com/serpuniversity/learn/blob/main/html/HTML%20add%20Javascript%20To%20Your%20web%20Page.md)
+- [HTML The Mark Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Mark%20Text%20Element.md)

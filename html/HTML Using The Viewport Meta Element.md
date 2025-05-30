@@ -102,3 +102,10 @@ The recommended implementation includes both width and height device parameters:
 
 According to recent data, mobile use now constitutes the majority of web traffic, making mobile-friendliness a critical ranking factor. Websites that prioritize desktop optimization over mobile readiness risk declining relevance in search results, as visitors increasingly encounter content that is difficult or impossible to read on their devices.
 
+## References
+
+- [HTML tr The Table row Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20tr%20The%20Table%20row%20Element.md)
+- [HTML The Ruby Annotation Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Ruby%20Annotation%20Element.md)
+- [HTML ul The Unordered List Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20ul%20The%20Unordered%20List%20Element.md)
+- [HTML Fieldset The Field set Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Fieldset%20The%20Field%20set%20Element.md)
+- [HTML Class](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Class.md)

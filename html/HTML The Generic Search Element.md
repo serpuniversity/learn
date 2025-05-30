@@ -105,3 +105,10 @@ The element's value is defined through a set of comma-separated tokens, each rep
 
 The element's value is managed through IDL attributes and methods, including list, value, and select(). Supported events include input and change. The element does not support attributes such as accept, alpha, alt, checked, colorspace, formaction, formenctype, formmethod, formnovalidate, formtarget, height, max, min, popovertarget, popovertargetaction, src, step, or width. Similarly, IDL attributes and methods like checked, files, selectionStart, selectionEnd, selectionDirection, valueAsDate, and valueAsNumber are not supported. Instead, the `<search>` element represents a one-line plain text edit control with user agent value obscuration, supported across all current engines.
 
+## References
+
+- [HTML rtc The Ruby Text Container Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20rtc%20The%20Ruby%20Text%20Container%20Element.md)
+- [HTML A The Anchor Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20A%20The%20Anchor%20Element.md)
+- [HTML Author Fast Loading HTML Pages](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Author%20Fast%20Loading%20HTML%20Pages.md)
+- [HTML Using HTML Comments](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Using%20HTML%20Comments.md)
+- [HTML Accesskey](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Accesskey.md)

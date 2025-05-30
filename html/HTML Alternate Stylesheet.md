@@ -214,3 +214,10 @@ The standard HTML and CSS specifications provide clear guidance on implementatio
 
 The core functionality of alternate style sheets works across modern browsers when properly implemented. Users can expect consistent behavior when switching styles, with the page re-rendering immediately using the selected stylesheet. This functionality enhances web accessibility by allowing users to choose between different display options based on their needs.
 
+## References
+
+- [HTML Draggable](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Draggable.md)
+- [HTML Nobr The non Breaking Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Nobr%20The%20non%20Breaking%20Text%20Element.md)
+- [HTML Attribute For](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20For.md)
+- [HTML Attribute Pattern](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Pattern.md)
+- [HTML Quirks Mode](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Quirks%20Mode.md)

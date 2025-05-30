@@ -154,3 +154,10 @@ Accessibility best practices include using proper nesting, ARIA roles, and provi
 
 From a development perspective, the element supports both global and event attributes, with additional support for disable, tabindex, and contenteditable properties. The element can contain `<li>`, `<script>`, and `<template>` elements, though `<li>` elements are required for palpable content. The compact attribute is supported in earlier versions of Internet Explorer and Netscape, though its effectiveness is limited in modern browsers.
 
+## References
+
+- [HTML Attribute Placeholder](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Placeholder.md)
+- [HTML Tabindex](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Tabindex.md)
+- [HTML Using Microdata In HTML](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Using%20Microdata%20In%20HTML.md)
+- [HTML rb The Ruby Base Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20rb%20The%20Ruby%20Base%20Element.md)
+- [HTML Autocorrect](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Autocorrect.md)

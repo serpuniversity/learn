@@ -64,3 +64,10 @@ Search engines and accessibility tools interact directly with the element's text
 
 The element's metadata role extends to form submission error handling, where page titles can dynamically update to reflect significant state changes. However, these updates require careful implementation to ensure compatibility across all targeted browsers. For instance, while the current behavior of dynamically updating titles may not automatically announce changes to screen readers, developers can combine title updates with ARIA Live Region techniques to enhance accessibility for users with assistive technology.
 
+## References
+
+- [HTML Constraint Validation](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Constraint%20Validation.md)
+- [HTML Contenteditable](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Contenteditable.md)
+- [HTML bdo The Bidirectional Text Override Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20bdo%20The%20Bidirectional%20Text%20Override%20Element.md)
+- [HTML The Date Time Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Date%20Time%20Element.md)
+- [HTML The Embed Text Track Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Embed%20Text%20Track%20Element.md)

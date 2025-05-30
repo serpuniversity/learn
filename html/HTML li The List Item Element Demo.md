@@ -66,3 +66,10 @@ An alternative approach utilizes the basic color property directly on the `<li>`
 
 Modern CSS solutions should avoid wrapping list items in span elements, as this practice is considered less elegant while achieving similar results. By directly styling list items with colors while maintaining proper list styling through global attributes, developers can create visually styled navigation menus that remain adaptable to future changes in browser standards and design requirements.
 
+## References
+
+- [HTML The Content Span Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Content%20Span%20Element.md)
+- [HTML Responsive Images](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Responsive%20Images.md)
+- [HTML Standard Metadata Names](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Standard%20Metadata%20Names.md)
+- [HTML The Main Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Main%20Element.md)
+- [HTML Using HTML Form Validation And The Constraint Validation API](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Using%20HTML%20Form%20Validation%20And%20The%20Constraint%20Validation%20API.md)

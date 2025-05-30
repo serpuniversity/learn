@@ -56,3 +56,10 @@ The element's treatment as regular text demonstrates its intended use for inline
 
 The `<q>` element's relationship with styling and presentation is managed through its classification as flow content. Its implementation allows for consistent treatment across different documents while maintaining the ability to customize presentation through CSS styling properties. The combination of semantic structure and flexible styling options provides developers with practical tools for implementing inline quotations in web documents.
 
+## References
+
+- [HTML kbd The Keyboard Input Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20kbd%20The%20Keyboard%20Input%20Element.md)
+- [HTML](https://github.com/serpuniversity/learn/blob/main/html/HTML.md)
+- [HTML Attribute Autocomplete](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Autocomplete.md)
+- [HTML Attribute For](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20For.md)
+- [HTML The HTML Meter Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20HTML%20Meter%20Element.md)

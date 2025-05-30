@@ -82,3 +82,10 @@ The element particularly benefits languages that mix left-to-right and right-to-
 
 To effectively implement the bdo tag for accessibility, authors should consistently use the element throughout the page and test with assistive technologies like screen readers. Proper implementation requires correct usage of the dir attribute with values "ltr" or "rtl" and proper nesting within other HTML elements that support phrasing content. This structured approach maintains semantic document integrity while addressing bidirectional text needs across different languages and user contexts.
 
+## References
+
+- [HTML Attribute Reference](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Reference.md)
+- [HTML Exportparts](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Exportparts.md)
+- [HTML use Cross Origin Images In A Canvas](https://github.com/serpuniversity/learn/blob/main/html/HTML%20use%20Cross%20Origin%20Images%20In%20A%20Canvas.md)
+- [HTML The Output Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Output%20Element.md)
+- [HTML li The List Item Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20li%20The%20List%20Item%20Element.md)

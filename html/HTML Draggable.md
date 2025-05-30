@@ -247,3 +247,10 @@ The draggable attribute maintains consistency across modern browsers, but older 
 
 To maintain visual integrity, handle element positioning carefully during the drag operation. Update element offsets based on mouse movement rather than recalculating positions frequently, which can cause performance issues. For performance-critical applications, consider implementing drag events only when necessary or using requestAnimationFrame for smooth updates.
 
+## References
+
+- [HTML Viewport Meta tag](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Viewport%20Meta%20tag.md)
+- [HTML tt The Teletype Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20tt%20The%20Teletype%20Text%20Element.md)
+- [HTML Autocapitalize](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Autocapitalize.md)
+- [HTML The Image map Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Image%20map%20Element.md)
+- [HTML rp The Ruby Fallback Parenthesis Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20rp%20The%20Ruby%20Fallback%20Parenthesis%20Element.md)

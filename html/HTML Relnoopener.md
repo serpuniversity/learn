@@ -79,3 +79,10 @@ The rel=noreferrer component of the attribute can affect referral tracking in an
 
 The attribute's impact on search engine crawlers is minimal, maintaining their ability to follow links and transfer link juice. However, websites should monitor their analytics to ensure the noreferrer component does not significantly affect tracking metrics.
 
+## References
+
+- [HTML Thead The Table Head Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Thead%20The%20Table%20Head%20Element.md)
+- [HTML Colgroup The Table Column Group Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Colgroup%20The%20Table%20Column%20Group%20Element.md)
+- [HTML The Button Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Button%20Element.md)
+- [HTML em The Emphasis Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20em%20The%20Emphasis%20Element.md)
+- [HTML Font](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Font.md)

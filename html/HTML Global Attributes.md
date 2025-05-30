@@ -107,3 +107,10 @@ The `hidden` attribute acts as a boolean indicator, specifying whether an elemen
 
 The `spellcheck` attribute controls whether an element should have its spelling and grammar checked, particularly relevant for forms and contenteditable elements. Setting this attribute to false can improve performance and user experience for elements where automatic checking is not desired. For example: `<textarea spellcheck="false">This textarea will not check spelling</textarea>`. The `spellcheck` attribute helps optimize content handling while maintaining control over input validation and processing.
 
+## References
+
+- [HTML rb The Ruby Base Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20rb%20The%20Ruby%20Base%20Element.md)
+- [HTML Nobr The non Breaking Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Nobr%20The%20non%20Breaking%20Text%20Element.md)
+- [HTML Contenteditable](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Contenteditable.md)
+- [HTML Cheatsheet For Syntax And Common Tasks](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Cheatsheet%20For%20Syntax%20And%20Common%20Tasks.md)
+- [HTML The Strong Importance Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Strong%20Importance%20Element.md)

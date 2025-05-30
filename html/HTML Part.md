@@ -292,3 +292,10 @@ The WHATWG (Web Hypertext Application Technology Working Group) formed in 2004, 
 
 Despite the 2011 split between the W3C and WHATWG, their collaboration eventually led to a unified HTML standard in 2019. This evolutionary process reflects the complex balance between maintaining web compatibility and introducing new features that have shaped HTML's development over three decades.
 
+## References
+
+- [HTML Head The Document Metadata Header Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Head%20The%20Document%20Metadata%20Header%20Element.md)
+- [HTML Relpreload](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Relpreload.md)
+- [HTML Tabindex](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Tabindex.md)
+- [HTML is](https://github.com/serpuniversity/learn/blob/main/html/HTML%20is.md)
+- [HTML Autocapitalize](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Autocapitalize.md)

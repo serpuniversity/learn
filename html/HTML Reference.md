@@ -237,3 +237,10 @@ As a widely adopted standard, HTML5 includes detailed information about tag usag
 
 These tags continue to evolve with web development standards. The latest version of HTML, HTML5, maintains these tags while adding new features that expand their functionality. For example, the `cite` tag remains a crucial tool for marking up citations, while the `em` tag benefits from enhanced support across modern web development frameworks and libraries.
 
+## References
+
+- [HTML Tfoot The Table Foot Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Tfoot%20The%20Table%20Foot%20Element.md)
+- [HTML Autocapitalize](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Autocapitalize.md)
+- [HTML sub The Subscript Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20sub%20The%20Subscript%20Element.md)
+- [HTML The Aside Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Aside%20Element.md)
+- [HTML Relnoreferrer](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Relnoreferrer.md)

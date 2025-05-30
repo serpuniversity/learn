@@ -124,3 +124,10 @@ The attribute's implementation varies slightly across platforms. On iOS devices,
 
 This cross-platform compatibility ensures that developers can implement consistent keyboard navigation hints across both desktop and mobile environments. While specific behavior may differ between operating systems, the attribute provides a standardized way to customize enter key functionality for virtual keyboards.
 
+## References
+
+- [HTML Cite The Citation Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Cite%20The%20Citation%20Element.md)
+- [HTML Table The Table Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Table%20The%20Table%20Element.md)
+- [HTML Itemscope](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Itemscope.md)
+- [HTML ins The Inserted Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20ins%20The%20Inserted%20Text%20Element.md)
+- [HTML Inputmode](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Inputmode.md)

@@ -137,3 +137,10 @@ Developers are advised to use custom heading levels with caution, particularly f
 
 The recommended approach for styling content at or beyond h6 level is to use `div` elements with class attributes, combining semantic clarity with flexible styling options. This method ensures that content remains fully accessible and maintainable, while providing the necessary structure for complex document layouts.
 
+## References
+
+- [HTML The Embed External Content Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Embed%20External%20Content%20Element.md)
+- [HTML Datalist The HTML Data List Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Datalist%20The%20HTML%20Data%20List%20Element.md)
+- [HTML Responsive Images](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Responsive%20Images.md)
+- [HTML is](https://github.com/serpuniversity/learn/blob/main/html/HTML%20is.md)
+- [HTML The Image map Area Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Image%20map%20Area%20Element.md)

@@ -138,3 +138,10 @@ The core functionality involves drawing the image onto the canvas and converting
 
 The output image appears in the browser, while the specific image URL used in the example is intentionally omitted to prevent direct access. This workflow provides a practical demonstration of cross-origin image processing while maintaining essential security controls.
 
+## References
+
+- [HTML li The List Item Element Demo](https://github.com/serpuniversity/learn/blob/main/html/HTML%20li%20The%20List%20Item%20Element%20Demo.md)
+- [HTML Attribute For](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20For.md)
+- [HTML The Strong Importance Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Strong%20Importance%20Element.md)
+- [HTML The Disclosure Summary Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Disclosure%20Summary%20Element.md)
+- [HTML Cheatsheet For Syntax And Common Tasks](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Cheatsheet%20For%20Syntax%20And%20Common%20Tasks.md)

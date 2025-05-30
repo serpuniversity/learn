@@ -87,3 +87,10 @@ When controlling text wrapping, web developers should prioritize semantic markup
 
 Developers are encouraged to use modern web development practices and standards compliance. The `<nobr>` tag, while still supported in current browsers, is considered proprietary and should be avoided for future development. For existing `<nobr>` implementations, the properties `white-space: nowrap;` and `hyphens: none;` offer equivalent functionality with improved maintainability and standards adherence.
 
+## References
+
+- [HTML Optgroup The Option Group Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Optgroup%20The%20Option%20Group%20Element.md)
+- [HTML The Embed External Content Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Embed%20External%20Content%20Element.md)
+- [HTML Using HTML Form Validation And The Constraint Validation API](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Using%20HTML%20Form%20Validation%20And%20The%20Constraint%20Validation%20API.md)
+- [HTML wbr The Line Break Opportunity Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20wbr%20The%20Line%20Break%20Opportunity%20Element.md)
+- [HTML Guides](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Guides.md)

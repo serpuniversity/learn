@@ -579,3 +579,10 @@ The `<small>` tag reduces text to a smaller size, while `<abbr>` and `<mark>` pr
 
 These formatting tools, along with proper use of headings and paragraphs, help web developers create well-structured, readable content that meets both functional and aesthetic requirements.
 
+## References
+
+- [HTML The Embed External Content Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Embed%20External%20Content%20Element.md)
+- [HTML The Image map Area Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Image%20map%20Area%20Element.md)
+- [HTML dl The Description List Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20dl%20The%20Description%20List%20Element.md)
+- [HTML The Embed Text Track Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Embed%20Text%20Track%20Element.md)
+- [HTML The HTML Select Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20HTML%20Select%20Element.md)

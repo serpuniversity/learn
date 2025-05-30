@@ -126,3 +126,10 @@ The `<hgroup>` element can be used effectively to present a main heading alongsi
 
 This structure ensures that the main heading is clearly distinguished from secondary content while maintaining proper document hierarchy.
 
+## References
+
+- [HTML wbr The Line Break Opportunity Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20wbr%20The%20Line%20Break%20Opportunity%20Element.md)
+- [HTML dfn The Definition Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20dfn%20The%20Definition%20Element.md)
+- [HTML Autocapitalize](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Autocapitalize.md)
+- [HTML Attribute Autocomplete](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Autocomplete.md)
+- [HTML The Image map Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Image%20map%20Element.md)

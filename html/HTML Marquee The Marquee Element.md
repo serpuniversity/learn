@@ -215,3 +215,10 @@ With associated CSS:
 
 This modern approach preserves the element's key functionality while addressing its fundamental usability issues.
 
+## References
+
+- [HTML The Figure With Optional Caption Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Figure%20With%20Optional%20Caption%20Element.md)
+- [HTML The Menu Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Menu%20Element.md)
+- [HTML pre The Preformatted Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20pre%20The%20Preformatted%20Text%20Element.md)
+- [HTML Attribute Pattern](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Pattern.md)
+- [HTML The Image map Area Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Image%20map%20Area%20Element.md)

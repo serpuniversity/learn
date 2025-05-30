@@ -355,3 +355,10 @@ To ensure proper accessibility, developers should:
 
 - Maintain consistent and logical document structure
 
+## References
+
+- [HTML The Content Span Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Content%20Span%20Element.md)
+- [HTML td The Table Data Cell Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20td%20The%20Table%20Data%20Cell%20Element.md)
+- [HTML The Date Time Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Date%20Time%20Element.md)
+- [HTML Attribute Accept](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Accept.md)
+- [HTML tr The Table row Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20tr%20The%20Table%20row%20Element.md)

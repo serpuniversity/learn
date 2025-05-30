@@ -245,3 +245,10 @@ https://www.example.com/submit?comment-input=Hello&comment-direction=ltr
 
 The browser compatibility information shows that support exists across modern browsers, with specific implementation details varying between Chrome, Edge, Safari, and Opera. Internet Explorer and Firefox do not implement this feature.
 
+## References
+
+- [HTML Abbr The Abbreviation Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Abbr%20The%20Abbreviation%20Element.md)
+- [HTML Head The Document Metadata Header Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Head%20The%20Document%20Metadata%20Header%20Element.md)
+- [HTML bdi The Bidirectional Isolate Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20bdi%20The%20Bidirectional%20Isolate%20Element.md)
+- [HTML The Output Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Output%20Element.md)
+- [HTML The Ruby Annotation Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Ruby%20Annotation%20Element.md)

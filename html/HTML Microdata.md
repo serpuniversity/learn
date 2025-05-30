@@ -146,3 +146,10 @@ Items are created using the itemscope attribute, with properties defined through
 
 Browser support remains inconsistent, with only Opera Next (version 12.00 alpha) implementing the Microdata DOM API. However, the WHATWG HTML Standard maintains the specification, with regular updates through active editors. Developers should use tools like the Rich Snippets Testing Tool and Structured Data Linter to validate implementations, noting that while major search engines support Schema.org, complete coverage of all types may not be reflected in testing tools. Microdata attributes should be applied only to visible content, following Google's guidance against markup that would not be used in standard page rendering.
 
+## References
+
+- [HTML Define Terms With HTML](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Define%20Terms%20With%20HTML.md)
+- [HTML Samp The Sample Output Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Samp%20The%20Sample%20Output%20Element.md)
+- [HTML Autocorrect](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Autocorrect.md)
+- [HTML The Field set Legend Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Field%20set%20Legend%20Element.md)
+- [HTML Attribute Maxlength](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Maxlength.md)

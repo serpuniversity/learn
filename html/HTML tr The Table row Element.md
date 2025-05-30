@@ -117,3 +117,10 @@ The TABLE element's cellspacing attribute specifies space between table edges, c
 
 The HTMLTableRowElement interface provides access to row properties and methods, supported by several CSS properties for background color, border, text alignment, and vertical alignment of cell content. Pseudo-classes :nth-of-type, :first-of-type, and :last-of-type enable selecting specific row cells.
 
+## References
+
+- [HTML Translate](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Translate.md)
+- [HTML The External Resource Link Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20External%20Resource%20Link%20Element.md)
+- [HTML Elements Reference](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Elements%20Reference.md)
+- [HTML Itemprop](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Itemprop.md)
+- [HTML Iframe The Inline Frame Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Iframe%20The%20Inline%20Frame%20Element.md)

@@ -136,3 +136,10 @@ Both the `<ol>` and `<li>` elements carry implicit ARIA roles. The `<ol>` elemen
 
 The element's browser compatibility reflects its widespread support across modern web browsers, including Internet Explorer, Firefox, Chrome, Edge, Safari, and Opera. This consistent support enables developers to confidently implement nested lists while maintaining cross-browser compatibility. The element's robust attribute set, including support for reversed, start, and type, further enhances its utility for creating complex and accessible list structures.
 
+## References
+
+- [HTML Relnoopener](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Relnoopener.md)
+- [HTML Nobr The non Breaking Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Nobr%20The%20non%20Breaking%20Text%20Element.md)
+- [HTML The Mark Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Mark%20Text%20Element.md)
+- [HTML Autofocus](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Autofocus.md)
+- [HTML dd The Description Details Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20dd%20The%20Description%20Details%20Element.md)

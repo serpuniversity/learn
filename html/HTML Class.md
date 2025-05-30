@@ -264,3 +264,10 @@ for (let i = 0; i < elements.length; i++) {
 
 This demonstrates JavaScript's capability to interact with multiple elements defined through class names, making them essential for dynamic content modification and interactive applications.
 
+## References
+
+- [HTML Noframes The Frame Fallback Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Noframes%20The%20Frame%20Fallback%20Element.md)
+- [HTML Alternate Stylesheet](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Alternate%20Stylesheet.md)
+- [HTML big The Bigger Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20big%20The%20Bigger%20Text%20Element.md)
+- [HTML Using Date And Time Formats In HTML](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Using%20Date%20And%20Time%20Formats%20In%20HTML.md)
+- [HTML Thead The Table Head Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Thead%20The%20Table%20Head%20Element.md)

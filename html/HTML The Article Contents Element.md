@@ -212,3 +212,10 @@ For styling, the article element supports basic visual treatment through CSS whi
 
 The element's structure should treat articles as distinct entities when possible. For example, blog entries, product listings, and stories should each be wrapped in an article tag to improve rich results and search performance. When listing multiple self-contained items, consider using `<article>` elements instead of `<div>` for semantic clarity, particularly when each item represents complete content rather than a link to further information.
 
+## References
+
+- [HTML is](https://github.com/serpuniversity/learn/blob/main/html/HTML%20is.md)
+- [HTML Attribute max](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20max.md)
+- [HTML The Image map Area Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Image%20map%20Area%20Element.md)
+- [HTML Marquee The Marquee Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Marquee%20The%20Marquee%20Element.md)
+- [HTML Relpreload](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Relpreload.md)

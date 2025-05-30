@@ -86,3 +86,10 @@ However, developers must be aware of browser and screen reader combinations that
 
 Although modern browsers handle most aspects of `<summary>` implementation, legacy support remains important. Internet Explorer 11 requires special consideration due to its limited support for modern HTML features. Developers should implement fallbacks or polyfills for older browsers where necessary.
 
+## References
+
+- [HTML p The Paragraph Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20p%20The%20Paragraph%20Element.md)
+- [HTML sub The Subscript Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20sub%20The%20Subscript%20Element.md)
+- [HTML bdo The Bidirectional Text Override Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20bdo%20The%20Bidirectional%20Text%20Override%20Element.md)
+- [HTML pre The Preformatted Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20pre%20The%20Preformatted%20Text%20Element.md)
+- [HTML Autocapitalize](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Autocapitalize.md)

@@ -269,3 +269,10 @@ ReactDOM.render(<App />, document.getElementById('root'));
 
 The polyfill and third-party libraries help address the native element's limitations, making it a viable solution for modern web applications despite its current immaturity.
 
+## References
+
+- [HTML Microdata](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Microdata.md)
+- [HTML dir](https://github.com/serpuniversity/learn/blob/main/html/HTML%20dir.md)
+- [HTML The web Component Slot Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20web%20Component%20Slot%20Element.md)
+- [HTML big The Bigger Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20big%20The%20Bigger%20Text%20Element.md)
+- [HTML The External Resource Link Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20External%20Resource%20Link%20Element.md)

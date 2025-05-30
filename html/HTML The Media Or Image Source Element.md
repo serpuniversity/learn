@@ -123,3 +123,10 @@ The `<img>` element and CSS background images represent distinct use cases in we
 
 The `<picture>` element builds upon these fundamentals by providing advanced image management capabilities. While it maintains compatibility with the `<img>` element, developers should prioritize using `<img>` for content-carrying images and reserve CSS background images for purely decorative elements. This approach ensures optimal accessibility and semantic clarity while leveraging modern web development techniques.
 
+## References
+
+- [HTML rp The Ruby Fallback Parenthesis Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20rp%20The%20Ruby%20Fallback%20Parenthesis%20Element.md)
+- [HTML is](https://github.com/serpuniversity/learn/blob/main/html/HTML%20is.md)
+- [HTML Script The Script Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Script%20The%20Script%20Element.md)
+- [HTML Relnoreferrer](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Relnoreferrer.md)
+- [HTML The Figure With Optional Caption Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Figure%20With%20Optional%20Caption%20Element.md)

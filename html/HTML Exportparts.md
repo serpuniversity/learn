@@ -284,3 +284,10 @@ The attribute's functionality requires careful implementation to maintain the in
 
 The attribute leverages fundamental WebIDL (Web Interface Definition Language) mechanisms for structured attribute setting and getting. Each part mapping is parsed according to specific microsyntax rules, with implementation details defined in the specification's structured naming conventions. The attribute works by creating an internal map of part name mappings, where the first string specifies the part name within the shadow tree and the second string specifies the external name. This map is updated dynamically as elements are added or removed, ensuring real-time synchronization between shadow tree structure and exposed part names.
 
+## References
+
+- [HTML The Inline Code Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Inline%20Code%20Element.md)
+- [HTML Script Type Attribute](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Script%20Type%20Attribute.md)
+- [HTML The Embed External Content Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Embed%20External%20Content%20Element.md)
+- [HTML The Strong Importance Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Strong%20Importance%20Element.md)
+- [HTML The Graphics Canvas Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Graphics%20Canvas%20Element.md)

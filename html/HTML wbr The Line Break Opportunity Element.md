@@ -73,3 +73,10 @@ While the `<wbr>` element doesn't introduce hyphens at break points, it's import
 
 The element's widespread support across modern browsers makes it a reliable solution for managing line breaks. However, developers should test implementation across different environments to ensure consistent behavior. The `<wbr>` element can be combined with other text management techniques, such as CSS media queries and JavaScript processing, to create flexible and responsive designs.
 
+## References
+
+- [HTML dir The Directory Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20dir%20The%20Directory%20Element.md)
+- [HTML Relme](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Relme.md)
+- [HTML Data](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Data.md)
+- [HTML The Footer Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Footer%20Element.md)
+- [HTML Attribute Placeholder](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Placeholder.md)

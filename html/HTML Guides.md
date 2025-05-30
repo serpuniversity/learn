@@ -168,3 +168,10 @@ Images remain a core element of web design, with the `<img>` tag using src for t
 
 The language continues to evolve to meet emerging web needs. The `<mark>` element highlights text without semantic meaning, while `<time>` formats dates and times. Other improvements include `<progress>` for showing task completion, `<meter>` for numerical measurements, and `<details>` for expandable content sections. Together, these enhancements make HTML5 more versatile for creating interactive, accessible web applications.
 
+## References
+
+- [HTML rb The Ruby Base Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20rb%20The%20Ruby%20Base%20Element.md)
+- [HTML Frame](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Frame.md)
+- [HTML th The Table Header Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20th%20The%20Table%20Header%20Element.md)
+- [HTML Fieldset The Field set Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Fieldset%20The%20Field%20set%20Element.md)
+- [HTML Contenteditable](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Contenteditable.md)

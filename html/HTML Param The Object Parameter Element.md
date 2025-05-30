@@ -97,3 +97,10 @@ The element's specifications have consistently maintained its role as a containe
 
 As a component of the HTML5 Web Components suite, the `<param>` element has incorporated features from its earlier specifications while maintaining compatibility with legacy implementations. The HTML5 specification explicitly defines its DOM interface as an extension of the HTMLElement interface, providing direct access to name and value properties through JavaScript. This compatibility has ensured that existing applications continue to function while allowing for modern development practices.
 
+## References
+
+- [HTML Date And Time Formats Used In HTML](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Date%20And%20Time%20Formats%20Used%20In%20HTML.md)
+- [HTML Attribute Maxlength](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Maxlength.md)
+- [HTML Script The Script Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Script%20The%20Script%20Element.md)
+- [HTML big The Bigger Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20big%20The%20Bigger%20Text%20Element.md)
+- [HTML pre The Preformatted Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20pre%20The%20Preformatted%20Text%20Element.md)

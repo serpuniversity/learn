@@ -186,3 +186,10 @@ Volume control enables precise adjustments between 0.0 (silent) and 1.0 (maximum
 
 Direct audio stream generation through the Web Audio API allows developers to process audio in real-time using JavaScript. The element's DOM interface includes properties for both playback and track management, enabling sophisticated audio manipulation. For instance, developers can use the `HTMLMediaElement` API to add or remove audio tracks dynamically.
 
+## References
+
+- [HTML Attribute Capture](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Capture.md)
+- [HTML Tfoot The Table Foot Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Tfoot%20The%20Table%20Foot%20Element.md)
+- [HTML Responsive Images](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Responsive%20Images.md)
+- [HTML Itemscope](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Itemscope.md)
+- [HTML The Aside Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Aside%20Element.md)

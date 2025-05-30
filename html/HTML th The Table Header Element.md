@@ -259,3 +259,10 @@ th.thead-last { border-right: none; }
 
 By understanding and applying these CSS properties, developers can create visually appealing and accessible table headers that enhance both user experience and document accessibility.
 
+## References
+
+- [HTML The Label Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Label%20Element.md)
+- [HTML Using HTML Form Validation And The Constraint Validation API](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Using%20HTML%20Form%20Validation%20And%20The%20Constraint%20Validation%20API.md)
+- [HTML Optgroup The Option Group Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Optgroup%20The%20Option%20Group%20Element.md)
+- [HTML var The Variable Element Demo](https://github.com/serpuniversity/learn/blob/main/html/HTML%20var%20The%20Variable%20Element%20Demo.md)
+- [HTML The Generic Section Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Generic%20Section%20Element.md)

@@ -93,3 +93,10 @@ Semantic markup becomes particularly important when considering the `<dir>` elem
 
 When working with multi-column layouts, developers should consider using the `<dl>` (description list) element in conjunction with CSS. This approach maintains semantic clarity while providing robust styling options. For scenarios requiring specialized rendering behavior, custom JavaScript solutions should be implemented with caution, ensuring they maintain accessibility standards and degrade gracefully in older browsers.
 
+## References
+
+- [HTML Translate](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Translate.md)
+- [HTML Attribute Dirname](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Dirname.md)
+- [HTML Elements Reference](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Elements%20Reference.md)
+- [HTML Script The Script Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Script%20The%20Script%20Element.md)
+- [HTML The Mark Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Mark%20Text%20Element.md)

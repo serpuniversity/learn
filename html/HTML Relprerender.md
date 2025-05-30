@@ -104,3 +104,10 @@ The JavaScript implementation may face limitations, particularly when handling m
 
 While prerendering services like Prerender.io require Node.js and Express configuration, frameworks with native static site generation capabilities provide the most effective control over pre-rendering decisions. For optimal results, developers should combine these implementation options with careful monitoring of network and memory usage to ensure the technology enhances rather than degrades user experience.
 
+## References
+
+- [HTML id](https://github.com/serpuniversity/learn/blob/main/html/HTML%20id.md)
+- [HTML Elements Reference](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Elements%20Reference.md)
+- [HTML The Menu Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Menu%20Element.md)
+- [HTML dir](https://github.com/serpuniversity/learn/blob/main/html/HTML%20dir.md)
+- [HTML Guides](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Guides.md)

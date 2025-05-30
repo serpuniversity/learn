@@ -136,3 +136,10 @@ Browser compatibility for setting `autocapitalize` varies. The attribute functio
 
 The MDN Web Docs provide comprehensive guidance on `autocapitalize` usage, including its application to `<input>`, `<textarea>`, and `<select>` elements. The attribute's four possible values—none, sentences, words, and characters—offer robust control over text capitalization behavior while maintaining compatibility with different input types and content requirements.
 
+## References
+
+- [HTML br The Line Break Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20br%20The%20Line%20Break%20Element.md)
+- [HTML The Embed Audio Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Embed%20Audio%20Element.md)
+- [HTML li The List Item Element Demo](https://github.com/serpuniversity/learn/blob/main/html/HTML%20li%20The%20List%20Item%20Element%20Demo.md)
+- [HTML Lang](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Lang.md)
+- [HTML Using Microformats In HTML](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Using%20Microformats%20In%20HTML.md)

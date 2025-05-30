@@ -91,3 +91,10 @@ For scenarios requiring additional heading levels beyond the standard six, the `
 
 The `<section>` element can be effectively combined with the Headings Map browser extension for Chrome and Firefox, which visualizes both flat heading structures and document outline algorithm results. To ensure proper accessibility testing, developers should install NVDA, the most widely used screen reader that's also free to use (Source: How To Section Your HTML | CSS- ...).
 
+## References
+
+- [HTML dd The Description Details Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20dd%20The%20Description%20Details%20Element.md)
+- [HTML The Form Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Form%20Element.md)
+- [HTML rt The Ruby Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20rt%20The%20Ruby%20Text%20Element.md)
+- [HTML u The Unarticulated Annotation Underline Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20u%20The%20Unarticulated%20Annotation%20Underline%20Element.md)
+- [HTML Tbody The Table Body Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Tbody%20The%20Table%20Body%20Element.md)

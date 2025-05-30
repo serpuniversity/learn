@@ -243,3 +243,10 @@ The itemtype attribute specifies the URL of a vocabulary (such as Schema.org) th
 
 Every HTML element can have itemscope specified, creating a new metadata scope for that element. The attribute enables developers to associate structured data with web content through name-value pairs, while the itemtype attribute provides the vocabulary context needed for interpretation by web crawlers and other processing agents.
 
+## References
+
+- [HTML Alternate Stylesheet](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Alternate%20Stylesheet.md)
+- [HTML Dialog The Dialog Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Dialog%20The%20Dialog%20Element.md)
+- [HTML Attribute Readonly](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Readonly.md)
+- [HTML Nobr The non Breaking Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Nobr%20The%20non%20Breaking%20Text%20Element.md)
+- [HTML The HTML Meter Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20HTML%20Meter%20Element.md)

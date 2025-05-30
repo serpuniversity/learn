@@ -310,3 +310,10 @@ The header element efficiently manages external resources through `<link>` and `
 
 These examples illustrate the practical implementation and adaptability of the header element in modern web development, combining semantic structure with practical functionality.
 
+## References
+
+- [HTML use Cross Origin Images In A Canvas](https://github.com/serpuniversity/learn/blob/main/html/HTML%20use%20Cross%20Origin%20Images%20In%20A%20Canvas.md)
+- [HTML Attribute Required](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Required.md)
+- [HTML Datalist The HTML Data List Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Datalist%20The%20HTML%20Data%20List%20Element.md)
+- [HTML Nobr The non Breaking Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Nobr%20The%20non%20Breaking%20Text%20Element.md)
+- [HTML Style](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Style.md)

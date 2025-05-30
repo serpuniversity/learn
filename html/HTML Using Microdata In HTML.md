@@ -303,3 +303,10 @@ Developers frequently encounter these challenges during implementation:
 
 By following these detailed steps and addressing common challenges, you can successfully implement HTML Microdata to enhance your website's SEO and content structure.
 
+## References
+
+- [HTML u The Unarticulated Annotation Underline Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20u%20The%20Unarticulated%20Annotation%20Underline%20Element.md)
+- [HTML The Embed External Content Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Embed%20External%20Content%20Element.md)
+- [HTML Global Attributes](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Global%20Attributes.md)
+- [HTML Microformats](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Microformats.md)
+- [HTML Optgroup The Option Group Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Optgroup%20The%20Option%20Group%20Element.md)

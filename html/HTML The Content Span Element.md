@@ -166,3 +166,10 @@ Following these best practices ensures your use of `<span>` remains both effecti
 
 4. Consider the element's impact on accessibility and maintain proper implementation of ARIA attributes when needed.
 
+## References
+
+- [HTML ol The Ordered List Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20ol%20The%20Ordered%20List%20Element.md)
+- [HTML Using HTML Comments](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Using%20HTML%20Comments.md)
+- [HTML The Generic Section Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Generic%20Section%20Element.md)
+- [HTML th The Table Header Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20th%20The%20Table%20Header%20Element.md)
+- [HTML hr The Thematic Break Horizontal Rule Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20hr%20The%20Thematic%20Break%20Horizontal%20Rule%20Element.md)

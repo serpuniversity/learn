@@ -140,3 +140,10 @@ The element also supports pseudo-elements, which opens up creative possibilities
 
 While the `<col>` element provides these advanced capabilities, browser support for its additional attributes is limited. Only the width attribute maintains consistent support across Chrome, Edge, Firefox, Safari, and Opera. Developers should continue to monitor standards adoption and consider fallbacks to CSS classes for comprehensive styling needs.
 
+## References
+
+- [HTML The Field set Legend Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Field%20set%20Legend%20Element.md)
+- [HTML Global Attributes](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Global%20Attributes.md)
+- [HTML The Output Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Output%20Element.md)
+- [HTML h1 h6 The HTML Section Heading Elements](https://github.com/serpuniversity/learn/blob/main/html/HTML%20h1%20h6%20The%20HTML%20Section%20Heading%20Elements.md)
+- [HTML kbd The Keyboard Input Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20kbd%20The%20Keyboard%20Input%20Element.md)

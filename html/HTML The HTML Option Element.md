@@ -172,3 +172,10 @@ When implementing multi-select functionality, developers should enable the multi
 
 To ensure compatibility across browsers, developers should test their `<option>` implementations in various environments, including older versions of Internet Explorer and other major browsers. While the element enjoys robust support across modern web platforms, understanding potential browser-specific behaviors is essential for creating reliable user interfaces.
 
+## References
+
+- [HTML The Centered Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Centered%20Text%20Element.md)
+- [HTML Microdata](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Microdata.md)
+- [HTML The Footer Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Footer%20Element.md)
+- [HTML Attribute Multiple](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Multiple.md)
+- [HTML br The Line Break Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20br%20The%20Line%20Break%20Element.md)

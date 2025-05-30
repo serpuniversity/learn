@@ -80,3 +80,10 @@ When using JavaScript to manipulate the `<body>` element, developers should alwa
 
 To ensure compatibility and best practices, developers should regularly check the latest HTML specifications and refer to authoritative resources like the MDN Web Docs for the most accurate information on `<body>` element usage.
 
+## References
+
+- [HTML Optgroup The Option Group Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Optgroup%20The%20Option%20Group%20Element.md)
+- [HTML var The Variable Element Demo](https://github.com/serpuniversity/learn/blob/main/html/HTML%20var%20The%20Variable%20Element%20Demo.md)
+- [HTML Title](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Title.md)
+- [HTML Attribute Reference](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Reference.md)
+- [HTML big The Bigger Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20big%20The%20Bigger%20Text%20Element.md)

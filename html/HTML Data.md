@@ -215,3 +215,10 @@ To ensure cross-browser compatibility, developers should follow these naming and
 
 For compatibility with older browsers, the attribute is supported starting from version 2.0 for some engines and 3.1 for others. Modern browsers fully support the feature, making it universally useful for developers working across different platforms and environments.
 
+## References
+
+- [HTML rt The Ruby Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20rt%20The%20Ruby%20Text%20Element.md)
+- [HTML Part](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Part.md)
+- [HTML Optgroup The Option Group Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Optgroup%20The%20Option%20Group%20Element.md)
+- [HTML Contenteditable](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Contenteditable.md)
+- [HTML Theme Color](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Theme%20Color.md)

@@ -58,3 +58,10 @@ The element's usage spans multiple languages and typographic traditions. French,
 
 Browser support remains consistent across major modern browsers, including Chrome, Edge, Firefox, Safari, Opera, and Webview Android. For developers targeting older versions of Internet Explorer, the element's compatibility across all supported doctypes ensures reliable superscript functionality.
 
+## References
+
+- [HTML Script The Script Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Script%20The%20Script%20Element.md)
+- [HTML The Progress Indicator Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Progress%20Indicator%20Element.md)
+- [HTML Attribute Pattern](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Pattern.md)
+- [HTML nav The Navigation Section Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20nav%20The%20Navigation%20Section%20Element.md)
+- [HTML Attribute Crossorigin](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Crossorigin.md)

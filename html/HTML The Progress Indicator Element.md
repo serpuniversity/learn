@@ -158,3 +158,10 @@ A common implementation structure includes an input field for user-specified dur
 
 For styling, the basic structure includes a progress container with relative positioning and absolute positioning for the progress bar element. Transitions provide smooth visual effects during updates, and the element integrates well with existing web design patterns through standard CSS properties.
 
+## References
+
+- [HTML The Document Body Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Document%20Body%20Element.md)
+- [HTML Figcaption The Figure Caption Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Figcaption%20The%20Figure%20Caption%20Element.md)
+- [HTML dir The Directory Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20dir%20The%20Directory%20Element.md)
+- [HTML Datalist The HTML Data List Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Datalist%20The%20HTML%20Data%20List%20Element.md)
+- [HTML Attribute Multiple](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Multiple.md)

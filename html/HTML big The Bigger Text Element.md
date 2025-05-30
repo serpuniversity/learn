@@ -123,3 +123,10 @@ In practical implementation, the element caps its maximum font size according to
 
 While the element remains supported, its use continues to be discouraged in favor of modern CSS approaches. The HTML5 specification explicitly removes the `<big>` element from the official standard, recommending CSS for text styling needs. This change aligns with the wider trend toward separation of content structure from presentation styling in current web development practices.
 
+## References
+
+- [HTML em The Emphasis Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20em%20The%20Emphasis%20Element.md)
+- [HTML Reldns Prefetch](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Reldns%20Prefetch.md)
+- [HTML Itemtype](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Itemtype.md)
+- [HTML rp The Ruby Fallback Parenthesis Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20rp%20The%20Ruby%20Fallback%20Parenthesis%20Element.md)
+- [HTML add A Hitmap On top Of An Image](https://github.com/serpuniversity/learn/blob/main/html/HTML%20add%20A%20Hitmap%20On%20top%20Of%20An%20Image.md)

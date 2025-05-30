@@ -123,3 +123,10 @@ For developers needing to style aspects of the `<slot>` element itself, rather t
 
 The implementation details of `<slot>` and ::slotted() follow modern web standards, with full compatibility across current browsers. This consistency ensures that styled components maintain their appearance across supported platforms, while developers can confidently implement these features in their projects.
 
+## References
+
+- [HTML Date And Time Formats Used In HTML](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Date%20And%20Time%20Formats%20Used%20In%20HTML.md)
+- [HTML use Data Attributes](https://github.com/serpuniversity/learn/blob/main/html/HTML%20use%20Data%20Attributes.md)
+- [HTML ul The Unordered List Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20ul%20The%20Unordered%20List%20Element.md)
+- [HTML Frame](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Frame.md)
+- [HTML Itemscope](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Itemscope.md)

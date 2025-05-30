@@ -62,3 +62,10 @@ HTML parsing follows specific requirements: each `<dd>` element must follow a `<
 
 Browser implementation includes robust support for global and event attributes, with CSS styling options for enhanced presentation. The `<dd>` element maintains compatibility across browsers, including Safari, while supporting additional styling through properties like margin, padding, and background color. Modern approaches to customization include using the `::marker` pseudo-element for marker shape customization and employing JavaScript for interactive animations, though these methods have compatibility limitations in older browsers and specific use cases.
 
+## References
+
+- [HTML The Date Time Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Date%20Time%20Element.md)
+- [HTML Enterkeyhint](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Enterkeyhint.md)
+- [HTML The Ruby Annotation Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Ruby%20Annotation%20Element.md)
+- [HTML pre The Preformatted Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20pre%20The%20Preformatted%20Text%20Element.md)
+- [HTML The Details Disclosure Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Details%20Disclosure%20Element.md)

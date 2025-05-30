@@ -104,3 +104,10 @@ The HTML specification warns against using certain attributes in the script elem
 
 - The attribute should be omitted instead of using "JavaScript" as a value
 
+## References
+
+- [HTML Fencedframe The Fenced Frame Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Fencedframe%20The%20Fenced%20Frame%20Element.md)
+- [HTML The Strong Importance Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Strong%20Importance%20Element.md)
+- [HTML Constraint Validation](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Constraint%20Validation.md)
+- [HTML Global Attributes](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Global%20Attributes.md)
+- [HTML The Style Information Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Style%20Information%20Element.md)

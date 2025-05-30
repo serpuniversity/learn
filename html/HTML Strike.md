@@ -94,3 +94,10 @@ When using `<del>` to indicate deleted text, browsers typically render it with a
 
 For developers working with legacy code that uses `<strike>`, the transition to `<del>` or `<s>` involves replacing `<strike>` tags with their respective modern alternatives. This process requires careful consideration of content context to maintain semantic accuracy. In cases where both `<del>` and `<s>` are valid options, developers should choose based on specific usage scenarios: `<del>` for content removal or revision history, and `<s>` for general strikethrough effects without deleted context.
 
+## References
+
+- [HTML The Document Title Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Document%20Title%20Element.md)
+- [HTML Marquee The Marquee Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Marquee%20The%20Marquee%20Element.md)
+- [HTML Using Date And Time Formats In HTML](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Using%20Date%20And%20Time%20Formats%20In%20HTML.md)
+- [HTML hr The Thematic Break Horizontal Rule Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20hr%20The%20Thematic%20Break%20Horizontal%20Rule%20Element.md)
+- [HTML Nonce](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Nonce.md)

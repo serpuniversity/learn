@@ -216,3 +216,10 @@ caption {
 
 This style configuration demonstrates proper implementation while maintaining semantic clarity and accessibility.
 
+## References
+
+- [HTML Author Fast Loading HTML Pages](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Author%20Fast%20Loading%20HTML%20Pages.md)
+- [HTML Autofocus](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Autofocus.md)
+- [HTML Global Attributes](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Global%20Attributes.md)
+- [HTML Exportparts](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Exportparts.md)
+- [HTML Dialog The Dialog Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Dialog%20The%20Dialog%20Element.md)

@@ -132,3 +132,10 @@ RTC elements support all standard HTML global attributes, including accesskey, a
 
 By following these usage requirements, developers can effectively use RTC elements to create complex ruby annotations while ensuring compatibility with various browser implementations and maintaining proper HTML syntax.
 
+## References
+
+- [HTML Itemscope](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Itemscope.md)
+- [HTML Plaintext The Plain Text Element Deprecated](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Plaintext%20The%20Plain%20Text%20Element%20Deprecated.md)
+- [HTML Relpreload](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Relpreload.md)
+- [HTML Data](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Data.md)
+- [HTML Part](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Part.md)

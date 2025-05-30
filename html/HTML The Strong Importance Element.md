@@ -76,3 +76,10 @@ The element's primary use case is for content that changes the meaning or gravit
 
 Avoid using `<strong>` for simple bold text or decorative purposes. For most styling needs, including basic bold text, use CSS's font-weight property instead. The `<strong>` element should only be applied to text that requires special attention due to its importance or urgency, helping maintain the structural integrity and comprehensibility of complex documents and web content.
 
+## References
+
+- [HTML Slot](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Slot.md)
+- [HTML The Progress Indicator Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Progress%20Indicator%20Element.md)
+- [HTML Attribute Dirname](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Dirname.md)
+- [HTML dfn The Definition Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20dfn%20The%20Definition%20Element.md)
+- [HTML bdi The Bidirectional Isolate Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20bdi%20The%20Bidirectional%20Isolate%20Element.md)

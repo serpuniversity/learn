@@ -82,3 +82,10 @@ The default presentation of the `<code>` element uses the browser's default mono
 
 The element's default font choice aligns with its intended use case of displaying computer code, where consistent monospaced formatting enhances readability. However, developers have the flexibility to override this default through CSS, allowing for customized typography that matches the surrounding text or specific design requirements. This combination of default behavior and styling flexibility enables both consistency and customizability in how inline code snippets are presented to users.
 
+## References
+
+- [HTML Lang](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Lang.md)
+- [HTML Translate](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Translate.md)
+- [HTML li The List Item Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20li%20The%20List%20Item%20Element.md)
+- [HTML Nobr The non Breaking Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Nobr%20The%20non%20Breaking%20Text%20Element.md)
+- [HTML The Inline Code Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Inline%20Code%20Element.md)

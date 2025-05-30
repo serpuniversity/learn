@@ -72,3 +72,10 @@ The size attribute controls scrolling list boxes, displaying the specified numbe
 
 Accessibility best practices center on proper attribute usage and role implementation. Authors should avoid the aria-multiselectable attribute and instead use ARIA roles to improve user experience for assistive technologies. The select element's structure supports grouping options using optgroup elements and separating them with `<hr>` elements, though these should be used for decoration rather than functionality. When multiple selections are allowed, developers must implement visual feedback and option limit control through JavaScript to maintain usability.
 
+## References
+
+- [HTML The Figure With Optional Caption Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Figure%20With%20Optional%20Caption%20Element.md)
+- [HTML Theme Color](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Theme%20Color.md)
+- [HTML The Document Body Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Document%20Body%20Element.md)
+- [HTML The Image map Area Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Image%20map%20Area%20Element.md)
+- [HTML Attribute Disabled](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Disabled.md)

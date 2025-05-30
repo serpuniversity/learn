@@ -104,3 +104,10 @@ While the required attribute provides essential feedback for sighted users, deve
 
 To ensure comprehensive feedback for all users, developers should implement multiple indication mechanisms. This includes clear text labeling of required fields, distinctive color coding around required controls, and appropriate use of attributes such as aria-required="true" to provide fallback support for browsers and screen readers that do not recognize the required attribute. By following these best practices, developers can create forms that remain accessible and user-friendly across a wide range of browser versions and user groups.
 
+## References
+
+- [HTML li The List Item Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20li%20The%20List%20Item%20Element.md)
+- [HTML Attribute Step](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Step.md)
+- [HTML Attribute Readonly](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Readonly.md)
+- [HTML The Document Body Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Document%20Body%20Element.md)
+- [HTML](https://github.com/serpuniversity/learn/blob/main/html/HTML.md)

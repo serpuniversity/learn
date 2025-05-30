@@ -322,3 +322,10 @@ The element's internal structure consists of an anonymous box that inherits prop
 
 The fieldset element's display properties enable flexible layout options. When set to inline-block or grid display, it creates a separate formatting context, influencing surrounding elements' layout. In CSS Flexbox contexts, the fieldset acts as a flex container, allowing for dynamic sizing and alignment of its contents. This combination of visual grouping and semantic markup makes the fieldset a powerful tool for organizing complex forms and improving user experience.
 
+## References
+
+- [HTML use Cross Origin Images In A Canvas](https://github.com/serpuniversity/learn/blob/main/html/HTML%20use%20Cross%20Origin%20Images%20In%20A%20Canvas.md)
+- [HTML dd The Description Details Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20dd%20The%20Description%20Details%20Element.md)
+- [HTML Acronym](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Acronym.md)
+- [HTML Using Responsive Images In HTML](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Using%20Responsive%20Images%20In%20HTML.md)
+- [HTML ul The Unordered List Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20ul%20The%20Unordered%20List%20Element.md)

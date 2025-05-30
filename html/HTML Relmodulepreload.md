@@ -119,3 +119,10 @@ The browser automatically handles additional dependency fetching when a module s
 
 By understanding these advanced usage patterns, developers can implement `modulepreload` effectively across various resource types while maintaining optimal performance and security.
 
+## References
+
+- [HTML Title](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Title.md)
+- [HTML Slot](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Slot.md)
+- [HTML Optgroup The Option Group Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Optgroup%20The%20Option%20Group%20Element.md)
+- [HTML tt The Teletype Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20tt%20The%20Teletype%20Text%20Element.md)
+- [HTML Nonce](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Nonce.md)

@@ -130,3 +130,10 @@ With its monospaced font default, `<samp>` ensures consistent display of code ou
 
 The element's broad compatibility across modern browsers and its ability to work within any element that accepts phrasing content make it a versatile choice for developers seeking to display program output in their web pages. This common usage helps maintain proper document structure while providing developers with flexible styling options through CSS.
 
+## References
+
+- [HTML The Marquee Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Marquee%20Element.md)
+- [HTML u The Unarticulated Annotation Underline Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20u%20The%20Unarticulated%20Annotation%20Underline%20Element.md)
+- [HTML Tbody The Table Body Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Tbody%20The%20Table%20Body%20Element.md)
+- [HTML Relpreload](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Relpreload.md)
+- [HTML](https://github.com/serpuniversity/learn/blob/main/html/HTML.md)

@@ -441,3 +441,10 @@ When implementing centering solutions, consider the broader context of your layo
 
 The choice between inline styles, internal stylesheets, and external stylesheets depends on your specific project requirements. For small projects or temporary solutions, inline styles may be sufficient. However, for larger projects or applications where styles need to be managed across multiple files, using external stylesheets generally provides better maintainability and separation of concerns.
 
+## References
+
+- [HTML var The Variable Element Demo](https://github.com/serpuniversity/learn/blob/main/html/HTML%20var%20The%20Variable%20Element%20Demo.md)
+- [HTML big The Bigger Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20big%20The%20Bigger%20Text%20Element.md)
+- [HTML The Main Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Main%20Element.md)
+- [HTML The Document Title Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Document%20Title%20Element.md)
+- [HTML Contenteditable](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Contenteditable.md)

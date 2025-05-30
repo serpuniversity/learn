@@ -234,3 +234,10 @@ The `<input>` element falls under several overlapping categories beyond standard
 
 4. Autocapitalize-and-autocorrect-inheriting elements: These elements inherit the autocapitalize and autocorrect attributes from their form owner. Examples include button, fieldset, input, output, select, textarea, and form-associated custom elements.
 
+## References
+
+- [HTML sup The Superscript Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20sup%20The%20Superscript%20Element.md)
+- [HTML Class](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Class.md)
+- [HTML Itemid](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Itemid.md)
+- [HTML The Document Title Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Document%20Title%20Element.md)
+- [HTML Attribute Maxlength](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Maxlength.md)

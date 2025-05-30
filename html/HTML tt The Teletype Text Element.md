@@ -78,3 +78,10 @@ Despite its wide support, developers are encouraged to explore more semantic alt
 
 These alternatives offer enhanced semantic meaning while maintaining the visual presentation capabilities of the `<tt>` tag using modern web development practices.
 
+## References
+
+- [HTML The Output Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Output%20Element.md)
+- [HTML The Embed External Content Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Embed%20External%20Content%20Element.md)
+- [HTML dd The Description Details Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20dd%20The%20Description%20Details%20Element.md)
+- [HTML The Data Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Data%20Element.md)
+- [HTML The Progress Indicator Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Progress%20Indicator%20Element.md)

@@ -68,3 +68,10 @@ The rb element's structure and usage guidelines help maintain semantic clarity a
 
 To maintain semantic accuracy, authors should avoid using the rb element for purposes other than its intended ruby annotation functionality. This includes avoiding incorrect nesting, improper content placement, or misusing the element for other semantic roles. The rb element's restricted content model ensures that it serves its specific purpose effectively while maintaining document structure and readability.
 
+## References
+
+- [HTML The Article Contents Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Article%20Contents%20Element.md)
+- [HTML Input The HTML Input Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Input%20The%20HTML%20Input%20Element.md)
+- [HTML Translate](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Translate.md)
+- [HTML Iframe The Inline Frame Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Iframe%20The%20Inline%20Frame%20Element.md)
+- [HTML Standard Metadata Names](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Standard%20Metadata%20Names.md)

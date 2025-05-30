@@ -86,3 +86,10 @@ While nesting input elements inside label elements can simplify form design, it'
 
 The step attribute itself has implications for accessibility through its interaction with min and max attributes. When defining minimum value requirements with the min attribute, it's crucial to provide clear instructions for users to ensure proper input. This can be achieved using aria-describedby attributes to reference additional information or by including descriptive text within the label element.
 
+## References
+
+- [HTML The Contact Address Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Contact%20Address%20Element.md)
+- [HTML Allowing Cross Origin use Of Images And Canvas](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Allowing%20Cross%20Origin%20use%20Of%20Images%20And%20Canvas.md)
+- [HTML Autocorrect](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Autocorrect.md)
+- [HTML The Content Template Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Content%20Template%20Element.md)
+- [HTML Script Type Attribute](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Script%20Type%20Attribute.md)

@@ -112,3 +112,10 @@ Minimize 404 errors, which waste server resources and negatively impact page loa
 
 While performance impacts can be difficult to quantify, several clear strategies reduce overall load times. These include external JavaScript and CSS caching, efficient file management, CDN usage, and careful component management (Document A).
 
+## References
+
+- [HTML Frameset](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Frameset.md)
+- [HTML The Video Embed Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Video%20Embed%20Element.md)
+- [HTML The Image map Area Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Image%20map%20Area%20Element.md)
+- [HTML The Graphics Canvas Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Graphics%20Canvas%20Element.md)
+- [HTML Strike](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Strike.md)

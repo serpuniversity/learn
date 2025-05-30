@@ -134,3 +134,10 @@ When working with browser plugins and older web technologies, the `<object>` ele
 
 The element also supports deprecated browser plugins through its comprehensive attribute set, though developers should prioritize modern content strategies when possible. The `<object>` element's flexibility remains valuable for handling transitional web technologies while ensuring content remains accessible across different browser environments.
 
+## References
+
+- [HTML ol The Ordered List Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20ol%20The%20Ordered%20List%20Element.md)
+- [HTML q The Inline Quotation Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20q%20The%20Inline%20Quotation%20Element.md)
+- [HTML Using Microdata In HTML](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Using%20Microdata%20In%20HTML.md)
+- [HTML xmp](https://github.com/serpuniversity/learn/blob/main/html/HTML%20xmp.md)
+- [HTML Frame](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Frame.md)

@@ -318,3 +318,10 @@ Developers should avoid using iframes for critical user authentication or paymen
 
 For reliable detection of iframe support, developers should provide alternative content for browsers that do not support iframes. This fallback content should include a warning message, as browsers will display text between the opening and closing tags when iframes are unsupported.
 
+## References
+
+- [HTML rb The Ruby Base Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20rb%20The%20Ruby%20Base%20Element.md)
+- [HTML Relpreload](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Relpreload.md)
+- [HTML The Document Body Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Document%20Body%20Element.md)
+- [HTML Script The Script Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Script%20The%20Script%20Element.md)
+- [HTML The Mark Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Mark%20Text%20Element.md)

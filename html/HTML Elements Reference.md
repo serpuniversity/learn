@@ -109,3 +109,10 @@ The `<frame>` and `<frameset>` elements have been largely superseded by more fle
 
 Finally, the `<marquee>` element - used for text scrolling - and the `<menuitem>` element - for menu commands - have both been deprecated in favor of more contemporary and accessible alternatives for content presentation and interactivity.
 
+## References
+
+- [HTML Nobr The non Breaking Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Nobr%20The%20non%20Breaking%20Text%20Element.md)
+- [HTML Reldns Prefetch](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Reldns%20Prefetch.md)
+- [HTML Using The Viewport Meta Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Using%20The%20Viewport%20Meta%20Element.md)
+- [HTML Plaintext The Plain Text Element Deprecated](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Plaintext%20The%20Plain%20Text%20Element%20Deprecated.md)
+- [HTML Acronym](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Acronym.md)

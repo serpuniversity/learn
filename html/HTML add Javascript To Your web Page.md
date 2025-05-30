@@ -239,3 +239,10 @@ For scenarios requiring more complex security measures, you can implement JavaSc
 
 Effective JavaScript integration requires organizing your code carefully while considering execution timing and page-specific logic. By following best practices for module management, script placement, and conditional loading, you can create robust web applications that maintain performance and security.
 
+## References
+
+- [HTML The Graphics Canvas Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Graphics%20Canvas%20Element.md)
+- [HTML Viewport Meta tag](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Viewport%20Meta%20tag.md)
+- [HTML The Ruby Annotation Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Ruby%20Annotation%20Element.md)
+- [HTML Relnoreferrer](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Relnoreferrer.md)
+- [HTML The Centered Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Centered%20Text%20Element.md)

@@ -102,3 +102,10 @@ The element's global attributes ensure compatibility with assistive technologies
 
 Accessibility improvements come through proper implementation of related CSS properties. While the `<ruby>` element itself doesn't have specific attributes, authors can use the `text-transform` property to adjust the visual presentation of annotated text. For example, `text-transform: full-size-kana` specifically targets Japanese text, improving presentation but requiring careful consideration of browser compatibility.
 
+## References
+
+- [HTML Frameset](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Frameset.md)
+- [HTML Attribute Accept](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Accept.md)
+- [HTML Nobr The non Breaking Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Nobr%20The%20non%20Breaking%20Text%20Element.md)
+- [HTML Contenteditable](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Contenteditable.md)
+- [HTML Datalist The HTML Data List Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Datalist%20The%20HTML%20Data%20List%20Element.md)

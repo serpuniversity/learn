@@ -138,3 +138,10 @@ figcaption { font-style: italic; color: #555; margin-top: 5px; }
 
 These examples demonstrate the `<figcaption>` element's versatility in providing clear, descriptive captions for various content types while maintaining semantic web practices.
 
+## References
+
+- [HTML dir The Directory Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20dir%20The%20Directory%20Element.md)
+- [HTML The Inline Code Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Inline%20Code%20Element.md)
+- [HTML use Data Attributes](https://github.com/serpuniversity/learn/blob/main/html/HTML%20use%20Data%20Attributes.md)
+- [HTML Relmodulepreload](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Relmodulepreload.md)
+- [HTML Frameset](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Frameset.md)

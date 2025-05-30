@@ -63,3 +63,10 @@ Implementation across various environments ensures broad compatibility, with the
 
 The element's content model strictly requires a start tag and allows for omitted end tags under specific conditions, either when immediately followed by another `<rt>` or `<rp>` element, or when no additional content follows in the parent element. This design mirrors broader HTML principles for managing structural and phrasing content effectively.
 
+## References
+
+- [HTML The Media Or Image Source Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Media%20Or%20Image%20Source%20Element.md)
+- [HTML The Centered Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Centered%20Text%20Element.md)
+- [HTML xmp](https://github.com/serpuniversity/learn/blob/main/html/HTML%20xmp.md)
+- [HTML The Document Title Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Document%20Title%20Element.md)
+- [HTML The Content Span Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Content%20Span%20Element.md)

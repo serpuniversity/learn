@@ -92,3 +92,10 @@ Developers should note that browser support for these resource-hinting features 
 
 4. Test performance changes thoroughly to ensure that new connections do not disrupt existing resource loading patterns
 
+## References
+
+- [HTML Guides](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Guides.md)
+- [HTML The Textarea Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Textarea%20Element.md)
+- [HTML The Main Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Main%20Element.md)
+- [HTML The Inline Code Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Inline%20Code%20Element.md)
+- [HTML Relpreload](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Relpreload.md)

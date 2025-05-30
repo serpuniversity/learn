@@ -149,3 +149,10 @@ From a technical standpoint, the element strictly adheres to flow content specif
 
 The element's structure requires both the start and end tags to be present, with no permitted content beyond standard flow elements. This includes support for global attributes and event attributes, making it versatile for various implementation needs while maintaining semantic clarity. The text formatting defaults to italic styling, but developers can override this behavior using CSS to better align with their design requirements.
 
+## References
+
+- [HTML Popover](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Popover.md)
+- [HTML sub The Subscript Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20sub%20The%20Subscript%20Element.md)
+- [HTML The Form Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Form%20Element.md)
+- [HTML ul The Unordered List Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20ul%20The%20Unordered%20List%20Element.md)
+- [HTML The Output Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Output%20Element.md)

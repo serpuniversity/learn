@@ -99,3 +99,10 @@ The element's directionality is controlled through the directionality (dir) attr
 
 The element requires both start and end tags and behaves distinctly from other HTML elements by never inheriting its dir attribute value from parent elements. While widely supported across modern browsers, older versions may exhibit different implementation details. The element's technical specifications indicate compatibility with various browser versions and operating systems, though specific browser support documentation is not provided.
 
+## References
+
+- [HTML Translate](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Translate.md)
+- [HTML Attribute Autocomplete](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Autocomplete.md)
+- [HTML Attribute Maxlength](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Maxlength.md)
+- [HTML The Content Template Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Content%20Template%20Element.md)
+- [HTML add Javascript To Your web Page](https://github.com/serpuniversity/learn/blob/main/html/HTML%20add%20Javascript%20To%20Your%20web%20Page.md)

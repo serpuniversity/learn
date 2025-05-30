@@ -66,3 +66,10 @@ The `<b>` element's core function has evolved significantly since HTML4, where s
 
 When deciding between `<b>` and `<strong>`, developers should consider whether the bolded text requires semantic importance. For text that simply needs visual separation without additional significance, the `<b>` element remains a valid choice. However, for content that warrants strong emphasis and accessibility support, the `<strong>` element should be used. Modern web development practices recommend using CSS for styling while leveraging semantic elements for content importance, allowing developers to maintain both visual prominence and semantic clarity in their text markup.
 
+## References
+
+- [HTML Relmodulepreload](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Relmodulepreload.md)
+- [HTML rp The Ruby Fallback Parenthesis Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20rp%20The%20Ruby%20Fallback%20Parenthesis%20Element.md)
+- [HTML Content Categories](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Content%20Categories.md)
+- [HTML](https://github.com/serpuniversity/learn/blob/main/html/HTML.md)
+- [HTML bdo The Bidirectional Text Override Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20bdo%20The%20Bidirectional%20Text%20Override%20Element.md)

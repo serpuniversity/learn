@@ -56,3 +56,10 @@ Developers should understand how different browsers handle mode transitions. For
 
 The Mozilla browser engine uses three rendering modes: quirks mode, almost standards mode, and full standards mode. Recent versions of Mozilla have significantly reduced the number of doctypes that trigger full standards compliance. While standards mode provides support for standardized HTML and CSS, checking all syntax based on the DOCTYPE specified as W3C Standard, almost standards mode implements one quirk - table cell sizing - while otherwise conforming to specifications. Understanding these nuances helps developers address older CSS implementations while supporting modern browsers.
 
+## References
+
+- [HTML Hgroup The Heading Group Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Hgroup%20The%20Heading%20Group%20Element.md)
+- [HTML pre The Preformatted Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20pre%20The%20Preformatted%20Text%20Element.md)
+- [HTML big The Bigger Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20big%20The%20Bigger%20Text%20Element.md)
+- [HTML s The Strikethrough Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20s%20The%20Strikethrough%20Element.md)
+- [HTML Datalist The HTML Data List Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Datalist%20The%20HTML%20Data%20List%20Element.md)

@@ -107,3 +107,10 @@ The element's interface also includes user interaction attributes such as title,
 
 From a technical perspective, the `<plaintext>` element has no additional functionality beyond the basic HTMLElement interface. It does not implement any specific behaviors or methods beyond those available to all HTML elements, making it a straightforward implementation of the standard interface with no unique features.
 
+## References
+
+- [HTML u The Unarticulated Annotation Underline Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20u%20The%20Unarticulated%20Annotation%20Underline%20Element.md)
+- [HTML Define Terms With HTML](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Define%20Terms%20With%20HTML.md)
+- [HTML Relnoopener](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Relnoopener.md)
+- [HTML dir The Directory Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20dir%20The%20Directory%20Element.md)
+- [HTML em The Emphasis Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20em%20The%20Emphasis%20Element.md)

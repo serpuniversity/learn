@@ -297,3 +297,10 @@ This rule ensures proper text justification within abstract sections:
 
 User agents must properly handle style sheet languages and hide content from non-conforming user agents when necessary. This ensures compatibility with evolving web standards while maintaining visual integrity across different browser implementations.
 
+## References
+
+- [HTML Understanding Quirks And Standards Modes](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Understanding%20Quirks%20And%20Standards%20Modes.md)
+- [HTML Attribute Disabled](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Disabled.md)
+- [HTML del The Deleted Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20del%20The%20Deleted%20Text%20Element.md)
+- [HTML Attribute Pattern](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Pattern.md)
+- [HTML Colgroup The Table Column Group Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Colgroup%20The%20Table%20Column%20Group%20Element.md)

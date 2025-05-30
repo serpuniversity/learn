@@ -118,3 +118,10 @@ The browser prioritizes prefetch resources at the lowest level, making them depe
 
 Prefetched resources are stored in the HTTP Cache when cacheable, with a standard caching duration of five minutes. Server Cache-Control directives significantly influence this duration, and restrictive directives like `no-cache` or `no-store` can prevent successful prefetching. The browser's implementation of prefetching as a "low" priority fetch operation aligns with its design goals of optimizing future page loads while maintaining current performance standards.
 
+## References
+
+- [HTML Small The Side Comment Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Small%20The%20Side%20Comment%20Element.md)
+- [HTML rp The Ruby Fallback Parenthesis Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20rp%20The%20Ruby%20Fallback%20Parenthesis%20Element.md)
+- [HTML q The Inline Quotation Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20q%20The%20Inline%20Quotation%20Element.md)
+- [HTML sup The Superscript Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20sup%20The%20Superscript%20Element.md)
+- [HTML Attribute min](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20min.md)

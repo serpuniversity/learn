@@ -103,3 +103,10 @@ All heading elements must contain a descendant with plain text content that incl
 
 The content category system, defined in the HTML Living Standard, establishes these requirements for proper element classification and content nesting. These rules enable developers to create sophisticated markup structures while maintaining consistent document semantics across different versions of HTML.
 
+## References
+
+- [HTML dl The Description List Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20dl%20The%20Description%20List%20Element.md)
+- [HTML The Image map Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Image%20map%20Element.md)
+- [HTML The HTML Meter Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20HTML%20Meter%20Element.md)
+- [HTML Viewport Meta tag](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Viewport%20Meta%20tag.md)
+- [HTML The Embed Text Track Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Embed%20Text%20Track%20Element.md)

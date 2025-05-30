@@ -137,3 +137,10 @@ For example, setting a meta description helps search engines understand the cont
 
 This attribute enables developers to control how their content is presented in search results and social media previews, enhancing both usability and discoverability. The meta content attribute can also be used to specify character set definitions, viewport settings, and other HTML-related metadata, providing a versatile tool for controlling document behavior and appearance.
 
+## References
+
+- [HTML Nobr The non Breaking Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Nobr%20The%20non%20Breaking%20Text%20Element.md)
+- [HTML The Ruby Annotation Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Ruby%20Annotation%20Element.md)
+- [HTML The Document Body Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Document%20Body%20Element.md)
+- [HTML Relnoopener](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Relnoopener.md)
+- [HTML The Generic Search Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Generic%20Search%20Element.md)

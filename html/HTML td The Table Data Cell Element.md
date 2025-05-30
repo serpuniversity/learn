@@ -399,3 +399,10 @@ Browser implementation aligns with the specification that `<td>` elements fall u
 
 For developers implementing table structures, understanding these underlying browser capabilities ensures reliable cross-browser functionality. The consistent support across browsers allows for standardized development practices without the need for browser-specific workarounds.
 
+## References
+
+- [HTML The Table Caption Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Table%20Caption%20Element.md)
+- [HTML Popover](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Popover.md)
+- [HTML li The List Item Element Demo](https://github.com/serpuniversity/learn/blob/main/html/HTML%20li%20The%20List%20Item%20Element%20Demo.md)
+- [HTML Enterkeyhint](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Enterkeyhint.md)
+- [HTML div The Content Division Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20div%20The%20Content%20Division%20Element.md)

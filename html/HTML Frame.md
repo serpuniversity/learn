@@ -225,3 +225,10 @@ For developers transitioning away from frames, the W3C recommends evaluating why
 
 The modern approach to responsive design with iframes typically involves using CSS to style and size the frames. This includes setting dimensions with height and width properties, removing borders with CSS, and using percentage-based sizing for better responsiveness. The iframe tag itself uses standard attributes like src, width, and height to define the frame's content and appearance.
 
+## References
+
+- [HTML Script The Script Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Script%20The%20Script%20Element.md)
+- [HTML Microformats](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Microformats.md)
+- [HTML Using HTML Comments](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Using%20HTML%20Comments.md)
+- [HTML use Cross Origin Images In A Canvas](https://github.com/serpuniversity/learn/blob/main/html/HTML%20use%20Cross%20Origin%20Images%20In%20A%20Canvas.md)
+- [HTML Tabindex](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Tabindex.md)

@@ -192,3 +192,10 @@ The typical use case involves placing `<thead>` content between `<table>` tags, 
 
 The latest browser versions maintain consistent behavior with the element's default display property of table-header-group. Some developers may still employ deprecated attributes like align, char, charoff, and valign; however, the W3C recommends these be replaced with appropriate CSS properties for alignment and styling.
 
+## References
+
+- [HTML Theme Color](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Theme%20Color.md)
+- [HTML Attribute Readonly](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Readonly.md)
+- [HTML The Article Contents Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Article%20Contents%20Element.md)
+- [HTML Frameset](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Frameset.md)
+- [HTML Attribute Size](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Size.md)

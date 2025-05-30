@@ -296,3 +296,10 @@ For rich input guidance, developers often employ multiple strategies:
 
 The HTML placeholder attribute provides a straightforward way to enhance form usability by offering guidance to users before they begin typing. While its implementation requires careful consideration of localization and dynamic content needs, developers can implement effective solutions using localization functions and framework-specific methods. The attribute's limitations, such as lack of HTML support and strict text formatting requirements, can be addressed through thoughtful implementation strategies alongside complementary UI design approaches.
 
+## References
+
+- [HTML Attribute Maxlength](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Maxlength.md)
+- [HTML Itemid](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Itemid.md)
+- [HTML The External Resource Link Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20External%20Resource%20Link%20Element.md)
+- [HTML Blockquote The Block Quotation Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Blockquote%20The%20Block%20Quotation%20Element.md)
+- [HTML wbr The Line Break Opportunity Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20wbr%20The%20Line%20Break%20Opportunity%20Element.md)

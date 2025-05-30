@@ -175,3 +175,10 @@ The target attribute defines the frame or window for rendering the linked resour
 
 - _top: Renders in the entire top-level window, replacing existing content
 
+## References
+
+- [HTML A The Anchor Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20A%20The%20Anchor%20Element.md)
+- [HTML](https://github.com/serpuniversity/learn/blob/main/html/HTML.md)
+- [HTML The Marquee Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Marquee%20Element.md)
+- [HTML th The Table Header Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20th%20The%20Table%20Header%20Element.md)
+- [HTML The Figure With Optional Caption Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Figure%20With%20Optional%20Caption%20Element.md)

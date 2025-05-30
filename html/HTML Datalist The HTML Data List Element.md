@@ -143,3 +143,10 @@ The `<select>` tag has consistent support across all modern browsers, while the 
 
 For developers choosing between these elements, several factors should influence their decision. When a fixed selection of options is appropriate and the user is required to select one of the available choices, the `<select>` tag provides a clear and straightforward implementation. However, when offering a set of options while allowing flexible user input, the `<datalist>` element's autocomplete functionality can significantly enhance user experience by reducing input errors and improving data accuracy.
 
+## References
+
+- [HTML Understanding Quirks And Standards Modes](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Understanding%20Quirks%20And%20Standards%20Modes.md)
+- [HTML Quirks Mode](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Quirks%20Mode.md)
+- [HTML Author Fast Loading HTML Pages](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Author%20Fast%20Loading%20HTML%20Pages.md)
+- [HTML Constraint Validation](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Constraint%20Validation.md)
+- [HTML Dialog The Dialog Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Dialog%20The%20Dialog%20Element.md)

@@ -274,3 +274,10 @@ For both WordPress and non-WordPress users, several methods enable custom font i
 
 By following these best practices, developers can implement custom fonts while maintaining consistent appearance and functionality across diverse user environments.
 
+## References
+
+- [HTML The Image map Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Image%20map%20Element.md)
+- [HTML The Content Template Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Content%20Template%20Element.md)
+- [HTML var The Variable Element Demo](https://github.com/serpuniversity/learn/blob/main/html/HTML%20var%20The%20Variable%20Element%20Demo.md)
+- [HTML Attribute min](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20min.md)
+- [HTML Using Microdata In HTML](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Using%20Microdata%20In%20HTML.md)

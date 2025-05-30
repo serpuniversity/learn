@@ -103,3 +103,10 @@ One advanced scenario involves secure password submission through external APIs.
 
 The attribute's influence extends to how browsers handle third-party font loading and image manipulation via canvas. In these cases, developers must carefully configure CORS headers to allow cross-origin access while preventing potential security vulnerabilities. Proper implementation requires understanding the attribute's impact on HTTP cache behavior, particularly in contemporary web environments where evolving standards continue to shape best practices.
 
+## References
+
+- [HTML Attribute Multiple](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Multiple.md)
+- [HTML A The Anchor Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20A%20The%20Anchor%20Element.md)
+- [HTML tr The Table row Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20tr%20The%20Table%20row%20Element.md)
+- [HTML The External Resource Link Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20External%20Resource%20Link%20Element.md)
+- [HTML Cheatsheet For Syntax And Common Tasks](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Cheatsheet%20For%20Syntax%20And%20Common%20Tasks.md)

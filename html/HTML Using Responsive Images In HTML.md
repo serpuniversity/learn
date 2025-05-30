@@ -90,3 +90,10 @@ The implementation ecosystem continues to evolve. While foundational support has
 
 Server configuration remains important, particularly as support for multiple image formats grows. The landscape is shifting toward more sophisticated image optimization techniques while maintaining backward compatibility through fallback formats like PNG or JPEG.
 
+## References
+
+- [HTML Optgroup The Option Group Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Optgroup%20The%20Option%20Group%20Element.md)
+- [HTML The External Object Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20External%20Object%20Element.md)
+- [HTML The Document Body Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Document%20Body%20Element.md)
+- [HTML Script Type Attribute](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Script%20Type%20Attribute.md)
+- [HTML Attribute Crossorigin](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Crossorigin.md)

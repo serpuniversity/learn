@@ -78,3 +78,10 @@ When implementing inputmode, it's crucial to provide contextual placeholder text
 
 This combination provides users with both visual and keyboard-based guidance, enhancing overall form usability.
 
+## References
+
+- [HTML Using Microformats In HTML](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Using%20Microformats%20In%20HTML.md)
+- [HTML The Generic Search Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Generic%20Search%20Element.md)
+- [HTML Optgroup The Option Group Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Optgroup%20The%20Option%20Group%20Element.md)
+- [HTML Itemprop](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Itemprop.md)
+- [HTML Param The Object Parameter Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Param%20The%20Object%20Parameter%20Element.md)

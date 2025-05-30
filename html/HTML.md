@@ -132,3 +132,10 @@ Once you've created your HTML file, you can test it in any web browser. For loca
 
 For ongoing development, the HTML.org tutorial suggests creating a free account to track progress, set goals, and explore additional features like personal website creation and daily streaks (HTML Tutorial, n.d.). This account helps learners stay organized and motivated as they develop their web development skills.
 
+## References
+
+- [HTML Attribute Accept](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Accept.md)
+- [HTML The Menu Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Menu%20Element.md)
+- [HTML dt The Description Term Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20dt%20The%20Description%20Term%20Element.md)
+- [HTML Relpreconnect](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Relpreconnect.md)
+- [HTML Standard Metadata Names](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Standard%20Metadata%20Names.md)

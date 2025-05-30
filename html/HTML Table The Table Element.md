@@ -153,3 +153,10 @@ The `<table>` element's core functionality remains consistent across browsers, s
 
 Development practices recommend leveraging the `<table>` element for its intended purpose: tabular data representation. While modern web trends increasingly favor CSS-based layout techniques, tables retain valuable applications, particularly for accessibility and data organization. Major software ecosystems, including WordPress, continue to utilize tables, demonstrating their enduring utility in structured data presentation.
 
+## References
+
+- [HTML Fencedframe The Fenced Frame Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Fencedframe%20The%20Fenced%20Frame%20Element.md)
+- [HTML Standard Metadata Names](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Standard%20Metadata%20Names.md)
+- [HTML The Picture Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Picture%20Element.md)
+- [HTML Autocorrect](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Autocorrect.md)
+- [HTML The HTML Option Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20HTML%20Option%20Element.md)

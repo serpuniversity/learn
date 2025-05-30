@@ -82,3 +82,10 @@ The `wbr` tag, while not directly related to creating line breaks, indicates whe
 
 Between block-level elements, developers are encouraged to use CSS margin properties rather than `<br>` for controlling spacing. This approach maintains semantic HTML structure while providing the desired visual separation between elements.
 
+## References
+
+- [HTML The HTML Document Root Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20HTML%20Document%20Root%20Element.md)
+- [HTML Cite The Citation Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Cite%20The%20Citation%20Element.md)
+- [HTML Using The Viewport Meta Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Using%20The%20Viewport%20Meta%20Element.md)
+- [HTML The Embed Audio Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Embed%20Audio%20Element.md)
+- [HTML The Document Title Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Document%20Title%20Element.md)

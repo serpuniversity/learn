@@ -74,3 +74,10 @@ While the `<video>` tag offers comprehensive control over playback and security,
 
 VdoCipher stands out in the video protection market through its implementation of Hollywood-Grade DRM Encryption and dynamic cloud-based key generation. This solution prevents illegal downloads by generating missing key errors when unprotected video source URLs are accessed. The company's suite of features includes URL Whitelist (domain restriction), WordPress Plugin integration, Smart HTML5 Video Player with Adaptive Bitrate Streaming, Dynamic Watermarking, and secure offline downloads on Android.
 
+## References
+
+- [HTML Font](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Font.md)
+- [HTML Responsive Images](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Responsive%20Images.md)
+- [HTML Noframes The Frame Fallback Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Noframes%20The%20Frame%20Fallback%20Element.md)
+- [HTML dir](https://github.com/serpuniversity/learn/blob/main/html/HTML%20dir.md)
+- [HTML Attribute Accept](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Accept.md)

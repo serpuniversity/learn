@@ -242,3 +242,10 @@ To ensure deleted text remains accessible to all users, including those with vis
 
 For users who rely on screen readers or other assistive technologies, providing additional context through the cite and datetime attributes significantly enhances the element's utility. The cite attribute should link to a detailed explanation of why text was deleted, while the datetime attribute should clearly specify the deletion time using ISO 8601 format. These metadata elements help maintain document integrity and provide valuable context for all users.
 
+## References
+
+- [HTML Fieldset The Field set Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Fieldset%20The%20Field%20set%20Element.md)
+- [HTML Date And Time Formats Used In HTML](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Date%20And%20Time%20Formats%20Used%20In%20HTML.md)
+- [HTML add A Hitmap On top Of An Image](https://github.com/serpuniversity/learn/blob/main/html/HTML%20add%20A%20Hitmap%20On%20top%20Of%20An%20Image.md)
+- [HTML Theme Color](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Theme%20Color.md)
+- [HTML Script Type Attribute](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Script%20Type%20Attribute.md)

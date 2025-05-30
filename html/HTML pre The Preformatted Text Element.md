@@ -116,3 +116,10 @@ To properly display images or diagrams through preformatted text, provide clear 
 
 Following best practices, ensure that `<pre>` elements contain valid HTML syntax, particularly when using characters like <, which must be escaped using character references. Leading newline characters immediately following the opening `<pre>` tag result in the first newline being stripped, which can affect diagram display. Always test content modifications near the tag's opening point to maintain proper rendering.
 
+## References
+
+- [HTML Reference](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Reference.md)
+- [HTML Using HTML Form Validation And The Constraint Validation API](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Using%20HTML%20Form%20Validation%20And%20The%20Constraint%20Validation%20API.md)
+- [HTML th The Table Header Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20th%20The%20Table%20Header%20Element.md)
+- [HTML u The Unarticulated Annotation Underline Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20u%20The%20Unarticulated%20Annotation%20Underline%20Element.md)
+- [HTML Relme](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Relme.md)

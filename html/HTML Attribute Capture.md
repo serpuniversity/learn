@@ -109,3 +109,10 @@ Despite these advancements, desktop browser support remains inconsistent. Edge, 
 
 The attribute's impact is most clearly demonstrated when used in conjunction with the accept attribute, particularly for image and video capture. When the accept attribute is set to "image/*", the browser presents users with a media capture dialog that prioritizes camera access over file selection. This behavior is consistent across supported devices and versions, offering a standardized approach to in-browser media capture that balances user experience with functional requirements.
 
+## References
+
+- [HTML img The Image Embed Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20img%20The%20Image%20Embed%20Element.md)
+- [HTML The HTML Option Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20HTML%20Option%20Element.md)
+- [HTML Blockquote The Block Quotation Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Blockquote%20The%20Block%20Quotation%20Element.md)
+- [HTML Itemscope](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Itemscope.md)
+- [HTML Marquee The Marquee Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Marquee%20The%20Marquee%20Element.md)

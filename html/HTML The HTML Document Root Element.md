@@ -204,3 +204,10 @@ While HTML does not strictly require `<html>` element start and end tags, provid
 
 By correctly implementing the `<html>` element's structure and attributes, authors ensure consistent rendering across different browsers and platforms, while supporting essential metadata and accessibility features [11].
 
+## References
+
+- [HTML The Progress Indicator Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Progress%20Indicator%20Element.md)
+- [HTML The Embed Text Track Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Embed%20Text%20Track%20Element.md)
+- [HTML The Embed External Content Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Embed%20External%20Content%20Element.md)
+- [HTML Inert](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Inert.md)
+- [HTML Tabindex](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Tabindex.md)

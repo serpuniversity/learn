@@ -73,3 +73,10 @@ The attribute's security benefits extend beyond just protecting against reverse 
 
 WordPress, starting with version 5.1, automatically includes "noopener noreferrer" on all links set to open in new tabs, while Elementor's visual editor applies it automatically when users enable "Open in new tab" for links. This automated implementation ensures security for website owners without requiring technical expertise. However, it's important to understand the trade-offs: while these security measures protect against attacks, they can also affect how referral traffic is tracked in analytics tools.
 
+## References
+
+- [HTML dt The Description Term Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20dt%20The%20Description%20Term%20Element.md)
+- [HTML Relme](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Relme.md)
+- [HTML Draggable](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Draggable.md)
+- [HTML Blockquote The Block Quotation Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Blockquote%20The%20Block%20Quotation%20Element.md)
+- [HTML The Centered Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Centered%20Text%20Element.md)

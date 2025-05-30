@@ -119,3 +119,10 @@ No default value is specified for the attribute. If no size is provided, the inp
 
 The attribute's value takes precedence over CSS width properties. This means that if both a size attribute and CSS width property are defined, the CSS property will be overridden. The attribute also has no impact on constraint validation, ensuring that form processing remains consistent regardless of the size value specified.
 
+## References
+
+- [HTML The Disclosure Summary Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Disclosure%20Summary%20Element.md)
+- [HTML li The List Item Element Demo](https://github.com/serpuniversity/learn/blob/main/html/HTML%20li%20The%20List%20Item%20Element%20Demo.md)
+- [HTML Exportparts](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Exportparts.md)
+- [HTML Attribute Placeholder](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Placeholder.md)
+- [HTML xmp](https://github.com/serpuniversity/learn/blob/main/html/HTML%20xmp.md)

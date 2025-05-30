@@ -206,3 +206,10 @@ The `<link>` element's implementation varies across different user agent categor
 
 The `<link>` element's interaction with ARIA roles and pseudo-classes demonstrates its importance in modern web development practices. When combined with the `<a>` element, these features enable advanced accessibility and user interaction capabilities, particularly for speech browsers where traditional navigation controls may be insufficient. The element's ability to support both visible and metadata links makes it valuable for both content presentation and assistive technology integration.
 
+## References
+
+- [HTML li The List Item Element Demo](https://github.com/serpuniversity/learn/blob/main/html/HTML%20li%20The%20List%20Item%20Element%20Demo.md)
+- [HTML Relprefetch](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Relprefetch.md)
+- [HTML Allowing Cross Origin use Of Images And Canvas](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Allowing%20Cross%20Origin%20use%20Of%20Images%20And%20Canvas.md)
+- [HTML The Progress Indicator Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Progress%20Indicator%20Element.md)
+- [HTML Attribute Autocomplete](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Autocomplete.md)

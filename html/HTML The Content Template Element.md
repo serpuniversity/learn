@@ -201,3 +201,10 @@ Example usage demonstrates creating a reusable table component:
 
 In this example, the template defines a basic table structure with styled columns and a named `<slot>` element for dynamic row content. Through JavaScript, developers can clone this template and attach it to custom elements, maintaining encapsulated styling and structure while enabling flexible row insertion patterns.
 
+## References
+
+- [HTML Spellcheck](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Spellcheck.md)
+- [HTML Selectedcontent The Selected Option Display Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Selectedcontent%20The%20Selected%20Option%20Display%20Element.md)
+- [HTML Figcaption The Figure Caption Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Figcaption%20The%20Figure%20Caption%20Element.md)
+- [HTML s The Strikethrough Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20s%20The%20Strikethrough%20Element.md)
+- [HTML Autocapitalize](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Autocapitalize.md)

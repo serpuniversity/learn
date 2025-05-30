@@ -146,3 +146,10 @@ For customized built-in elements requiring specific accessibility handling, auth
 
 This implementation approach ensures that customized elements remain accessible across different user agents and assistive technologies, maintaining the semantic integrity of the inserted content.
 
+## References
+
+- [HTML id](https://github.com/serpuniversity/learn/blob/main/html/HTML%20id.md)
+- [HTML bdi The Bidirectional Isolate Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20bdi%20The%20Bidirectional%20Isolate%20Element.md)
+- [HTML The Image map Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Image%20map%20Element.md)
+- [HTML Attribute Minlength](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Minlength.md)
+- [HTML Enterkeyhint](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Enterkeyhint.md)

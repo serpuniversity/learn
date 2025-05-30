@@ -272,3 +272,10 @@ The footer element functions effectively as part of the document structure, with
 
 When implementing footers across different browsers, developers should account for minor variations in rendering through comprehensive testing. Modern browsers support advanced styling options like Flexbox and CSS Grid for responsive design, but developers should include fallback styles for older browser versions to ensure consistent appearance and functionality.
 
+## References
+
+- [HTML Date And Time Formats Used In HTML](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Date%20And%20Time%20Formats%20Used%20In%20HTML.md)
+- [HTML big The Bigger Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20big%20The%20Bigger%20Text%20Element.md)
+- [HTML Exportparts](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Exportparts.md)
+- [HTML The Picture Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Picture%20Element.md)
+- [HTML tr The Table row Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20tr%20The%20Table%20row%20Element.md)

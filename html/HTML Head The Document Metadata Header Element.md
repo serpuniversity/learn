@@ -66,3 +66,10 @@ For better cross-device compatibility, include viewport settings in the `<meta>`
 
 Finally, validate your `<head>` implementation using tools like the W3C Markup Validation Service to ensure compatibility across different browsers and devices. Regularly audit your metadata for accuracy and relevance to maintain optimal SEO performance and web functionality.
 
+## References
+
+- [HTML The Label Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Label%20Element.md)
+- [HTML Viewport Meta tag](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Viewport%20Meta%20tag.md)
+- [HTML Attribute Step](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Step.md)
+- [HTML nav The Navigation Section Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20nav%20The%20Navigation%20Section%20Element.md)
+- [HTML Script The Script Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Script%20The%20Script%20Element.md)

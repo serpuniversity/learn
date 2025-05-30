@@ -93,3 +93,10 @@ The browser's default rendering for blockquote elements includes indentation, ma
 
 The blockquote element is natively supported across major browsers including Chrome, Edge, Firefox, Safari, and Opera, ensuring consistent functionality across platforms.
 
+## References
+
+- [HTML The Output Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Output%20Element.md)
+- [HTML Translate](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Translate.md)
+- [HTML Draggable](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Draggable.md)
+- [HTML The Button Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Button%20Element.md)
+- [HTML Data](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Data.md)

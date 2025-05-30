@@ -189,3 +189,10 @@ This basic structure can be extended to create more complex layouts through nest
 
 Modern web development encourages the use of alternative layout techniques like CSS Flexbox and Grid for creating responsive and maintainable designs. While framesets remain useful for understanding traditional web layout concepts, developers are advised to explore these modern alternatives for building contemporary web applications.
 
+## References
+
+- [HTML Noframes The Frame Fallback Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Noframes%20The%20Frame%20Fallback%20Element.md)
+- [HTML The Textarea Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Textarea%20Element.md)
+- [HTML Itemprop](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Itemprop.md)
+- [HTML Define Terms With HTML](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Define%20Terms%20With%20HTML.md)
+- [HTML The Picture Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Picture%20Element.md)

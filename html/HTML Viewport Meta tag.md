@@ -98,3 +98,10 @@ While the viewport meta tag offers enhanced control over rendering, certain brow
 
 To ensure effective implementation, developers should utilize comprehensive testing approaches. Tools like Chrome's DevTools mobile simulator require checking with specific parameters: device name, width, height, device pixel ratio, and user agent string. These detailed parameters help verify proper display across various devices while aligning with recommended responsive design practices.
 
+## References
+
+- [HTML Relpreload](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Relpreload.md)
+- [HTML Link The External Resource Link Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Link%20The%20External%20Resource%20Link%20Element.md)
+- [HTML Using HTML Comments](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Using%20HTML%20Comments.md)
+- [HTML p The Paragraph Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20p%20The%20Paragraph%20Element.md)
+- [HTML sub The Subscript Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20sub%20The%20Subscript%20Element.md)

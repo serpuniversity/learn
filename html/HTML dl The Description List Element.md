@@ -150,3 +150,10 @@ For accessibility, while screen readers do not specifically identify `<dl>` cont
 
 Developers can customize `<dl>` elements using standard CSS properties such as margin, padding, and display. Common techniques include resetting margins, applying specific padding to `<dt>` elements, and implementing key-value separators with CSS content properties. Proper styling maintains semantic clarity while improving visual presentation.
 
+## References
+
+- [HTML Lang](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Lang.md)
+- [HTML Class](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Class.md)
+- [HTML Attribute Placeholder](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Placeholder.md)
+- [HTML rb The Ruby Base Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20rb%20The%20Ruby%20Base%20Element.md)
+- [HTML Acronym](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Acronym.md)

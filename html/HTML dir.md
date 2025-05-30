@@ -66,3 +66,10 @@ From a practical standpoint, developers face several challenges when implementin
 
 The widespread adoption of alternative approaches, particularly the `<ul>` tag with CSS for styling, further demonstrates the limitations of `<dir>`. Modern web development practices prioritize standardized, cross-browser compatible solutions that ensure consistent rendering across all platforms. This shift highlights the importance of staying updated with evolving web standards and recommended practices for effective front-end development.
 
+## References
+
+- [HTML Frameset](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Frameset.md)
+- [HTML Attribute Reference](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Reference.md)
+- [HTML Figcaption The Figure Caption Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Figcaption%20The%20Figure%20Caption%20Element.md)
+- [HTML A The Anchor Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20A%20The%20Anchor%20Element.md)
+- [HTML sup The Superscript Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20sup%20The%20Superscript%20Element.md)

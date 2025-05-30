@@ -68,3 +68,10 @@ Header cells within the `<th>` element support properties like alignment, backgr
 
 Text wrapping within cells operates through several options including normal, pre, nowrap, pre-wrap, and pre-line, with padding managed through the modern padding property instead of the deprecated cellpadding attribute. Border handling requires careful attention to ensure proper cell spacing, particularly when using collapsed borders where both cells must agree to remove borders using nth-child selectors.
 
+## References
+
+- [HTML The Table Caption Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Table%20Caption%20Element.md)
+- [HTML Small The Side Comment Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Small%20The%20Side%20Comment%20Element.md)
+- [HTML Marquee The Marquee Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Marquee%20The%20Marquee%20Element.md)
+- [HTML The Aside Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Aside%20Element.md)
+- [HTML The External Object Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20External%20Object%20Element.md)

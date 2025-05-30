@@ -61,3 +61,10 @@ The `<dt>` element's default display style is block, matching its primary functi
 
 The element's support for global attributes and event handlers enables robust semantic and interactive functionality while maintaining compatibility across modern web platforms. Developers can enhance `<dt>` elements through the use of id and for attributes to create more nuanced semantic associations between terms and their definitions, particularly when implementing complex styling or accessibility improvements. The browser implementations for `<dt>` elements consistently follow the HTML specification, with specific versions noted for additional support details across different engines and platforms.
 
+## References
+
+- [HTML Reldns Prefetch](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Reldns%20Prefetch.md)
+- [HTML br The Line Break Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20br%20The%20Line%20Break%20Element.md)
+- [HTML The Progress Indicator Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Progress%20Indicator%20Element.md)
+- [HTML Hgroup The Heading Group Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Hgroup%20The%20Heading%20Group%20Element.md)
+- [HTML Head The Document Metadata Header Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Head%20The%20Document%20Metadata%20Header%20Element.md)

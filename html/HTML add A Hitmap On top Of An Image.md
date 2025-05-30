@@ -98,3 +98,10 @@ For developers looking to create custom heatmap visualizations, resources are av
 
 When integrating heatmaps with image overlays, considerations must be given to the underlying image dimensions and the transparency effect. The example from the Cloudinary blog uses random data points to create a visualization, while other implementations focus on applying alpha values to a gradient map for color representation. This approach requires careful handling of alpha blending to produce accurate visualizations.
 
+## References
+
+- [HTML ol The Ordered List Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20ol%20The%20Ordered%20List%20Element.md)
+- [HTML add Javascript To Your web Page](https://github.com/serpuniversity/learn/blob/main/html/HTML%20add%20Javascript%20To%20Your%20web%20Page.md)
+- [HTML The Graphics Canvas Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Graphics%20Canvas%20Element.md)
+- [HTML Noframes The Frame Fallback Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Noframes%20The%20Frame%20Fallback%20Element.md)
+- [HTML Attribute rel](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20rel.md)

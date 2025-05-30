@@ -87,3 +87,10 @@ While browsers typically render content within `<cite>` elements in italics by d
 
 The `<cite>` element supports Global Attributes and has no unique attributes of its own. It accepts phrasing content and flow content, making it suitable for use in contexts where short text snippets are appropriate. Proper implementation improves accessibility by helping screen readers and assistive technologies properly interpret the content's meaning.
 
+## References
+
+- [HTML The Date Time Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Date%20Time%20Element.md)
+- [HTML Author Fast Loading HTML Pages](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Author%20Fast%20Loading%20HTML%20Pages.md)
+- [HTML Fencedframe The Fenced Frame Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Fencedframe%20The%20Fenced%20Frame%20Element.md)
+- [HTML The Details Disclosure Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Details%20Disclosure%20Element.md)
+- [HTML Figcaption The Figure Caption Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Figcaption%20The%20Figure%20Caption%20Element.md)

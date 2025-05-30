@@ -281,3 +281,10 @@ The element's legacy status has led to the abandonment of proposed CSS propertie
 
 Developers should avoid using the marquee element in new projects, opting instead for contemporary approaches that align with evolving web standards and maintain user-friendly functionality across diverse devices and browsers.
 
+## References
+
+- [HTML Link The External Resource Link Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Link%20The%20External%20Resource%20Link%20Element.md)
+- [HTML The External Resource Link Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20External%20Resource%20Link%20Element.md)
+- [HTML col The Table Column Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20col%20The%20Table%20Column%20Element.md)
+- [HTML Attribute Accept](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Accept.md)
+- [HTML b The Bring Attention To Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20b%20The%20Bring%20Attention%20To%20Element.md)

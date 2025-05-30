@@ -122,3 +122,10 @@ The alt attribute serves dual purposes in image maps - acting as both a screen r
 
 The HTML standard clearly mandates that the `<area>` element must contain an alt attribute when representing a hyperlink, with this text providing the same choice as the hyperlink would in a text-only environment. The attribute's importance is further underscored by its requirement when defining clickable areas, ensuring that web content remains accessible even when images fail to load. This attribute-driven approach mirrors the broader web accessibility principles established for standard hyperlink implementation, maintaining consistency in how web developers address content accessibility through structured markup.
 
+## References
+
+- [HTML The HTML Select Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20HTML%20Select%20Element.md)
+- [HTML The Document Title Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Document%20Title%20Element.md)
+- [HTML Small The Side Comment Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Small%20The%20Side%20Comment%20Element.md)
+- [HTML dt The Description Term Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20dt%20The%20Description%20Term%20Element.md)
+- [HTML Date And Time Formats Used In HTML](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Date%20And%20Time%20Formats%20Used%20In%20HTML.md)

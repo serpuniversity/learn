@@ -217,3 +217,10 @@ For paginated content or document series, the `rel="next"` and `rel="prev"` attr
 
 These advanced capabilities demonstrate how `rel` attributes extend basic hyperlinks to enable sophisticated web interactions while maintaining compatibility across major elements and browsers.
 
+## References
+
+- [HTML Constraint Validation](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Constraint%20Validation.md)
+- [HTML Title](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Title.md)
+- [HTML Dialog The Dialog Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Dialog%20The%20Dialog%20Element.md)
+- [HTML Slot](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Slot.md)
+- [HTML Comments](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Comments.md)

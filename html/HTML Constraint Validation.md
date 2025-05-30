@@ -139,3 +139,10 @@ Client-side validation prevents common entry errors, such as empty fields or inc
 
 Developers should start with robust HTML5 validation features, as they provide basic constraint checking without JavaScript. For complex validation logic, use the Constraint Validation API's `setCustomValidity` method to display detailed error messages. Always validate form data on the server-side to maintain data security and integrity.
 
+## References
+
+- [HTML Quirks Mode](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Quirks%20Mode.md)
+- [HTML The Contact Address Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Contact%20Address%20Element.md)
+- [HTML Elements Reference](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Elements%20Reference.md)
+- [HTML Font](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Font.md)
+- [HTML Table The Table Element Demo](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Table%20The%20Table%20Element%20Demo.md)

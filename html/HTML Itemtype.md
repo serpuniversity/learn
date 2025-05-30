@@ -133,3 +133,10 @@ A book item might use the itemid attribute to reference its ISBN:
 
 This example demonstrates how the itemid attribute can be used to associate specific items with global identifiers, enhancing the discoverability and organization of structured content.
 
+## References
+
+- [HTML em The Emphasis Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20em%20The%20Emphasis%20Element.md)
+- [HTML Attribute Accept](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Accept.md)
+- [HTML The Data Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Data%20Element.md)
+- [HTML The Generic Search Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Generic%20Search%20Element.md)
+- [HTML Relpreload](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Relpreload.md)

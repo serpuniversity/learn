@@ -258,3 +258,10 @@ The `<div>` tag's primary strength lies in its flexibility as a container, parti
 
 For styling purposes, classes and IDs remain effective, but developers should strive for reusability through class-based approaches rather than relying heavily on individual element styling. This practice enhances maintainability and aligns with modern web development principles that emphasize efficient, reusable code.
 
+## References
+
+- [HTML Strike](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Strike.md)
+- [HTML Table The Table Element Demo](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Table%20The%20Table%20Element%20Demo.md)
+- [HTML The Form Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Form%20Element.md)
+- [HTML Attribute min](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20min.md)
+- [HTML The External Object Element Demo](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20External%20Object%20Element%20Demo.md)

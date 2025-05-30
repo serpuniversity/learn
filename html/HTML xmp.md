@@ -60,3 +60,10 @@ The tag's most distinctive feature was its handling of whitespace and HTML conte
 
 Modern alternatives to `<xmp>` include the `<pre>` element, which shares similar functionality for displaying preformatted text. For scenarios specifically requiring code representation, the `<code>` element provides semantic meaning while maintaining proper display characteristics. These alternatives offer broader support and maintain compliance with current web development standards, making them preferable choices for displaying uninterpreted HTML content.
 
+## References
+
+- [HTML Microformats](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Microformats.md)
+- [HTML Content Categories](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Content%20Categories.md)
+- [HTML Colgroup The Table Column Group Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Colgroup%20The%20Table%20Column%20Group%20Element.md)
+- [HTML Responsive Images](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Responsive%20Images.md)
+- [HTML Nonce](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Nonce.md)

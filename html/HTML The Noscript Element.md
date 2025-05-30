@@ -157,3 +157,10 @@ Developers should test `<noscript>` functionality across multiple browsers to en
 
 Web developers can find detailed guidance on `<noscript>` usage in the HTML Living Standard and related documentation. Resources like Mozilla Developer Network (MDN) provide comprehensive examples and best practices for implementing the element. Following established guidelines ensures consistent implementation across projects.
 
+## References
+
+- [HTML Thead The Table Head Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Thead%20The%20Table%20Head%20Element.md)
+- [HTML Attribute Readonly](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Readonly.md)
+- [HTML Popover](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Popover.md)
+- [HTML Constraint Validation](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Constraint%20Validation.md)
+- [HTML Relnoopener](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Relnoopener.md)

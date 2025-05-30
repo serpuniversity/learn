@@ -62,3 +62,10 @@ Accessibility considerations highlight potential issues with using `<i>` for gen
 
 The `<i>` element's intrinsic styling capabilities demonstrate how visual presentation can intersect with semantic markup. While the element's italic rendering mirrors its intended use for technical terms and idiomatic text, developers must carefully balance visual consistency with semantic accuracy. Proper implementation should prioritize semantic clarity, especially when marking up technical or taxonomic terms to maintain structural integrity for both human readers and assistive technologies.
 
+## References
+
+- [HTML Autofocus](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Autofocus.md)
+- [HTML img The Image Embed Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20img%20The%20Image%20Embed%20Element.md)
+- [HTML The HTML Meter Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20HTML%20Meter%20Element.md)
+- [HTML The Document Title Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Document%20Title%20Element.md)
+- [HTML wbr The Line Break Opportunity Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20wbr%20The%20Line%20Break%20Opportunity%20Element.md)

@@ -95,3 +95,10 @@ According to Mozilla's documentation, developers should explicitly set the spell
 
 The attribute follows inheritance rules, where the value from ancestor elements applies to child elements unless overridden. This inheritance model provides developers with fine-grained control over spell checking behavior, allowing them to enable checking selectively while maintaining security for sensitive fields.
 
+## References
+
+- [HTML The Ruby Annotation Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Ruby%20Annotation%20Element.md)
+- [HTML dl The Description List Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20dl%20The%20Description%20List%20Element.md)
+- [HTML bdi The Bidirectional Isolate Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20bdi%20The%20Bidirectional%20Isolate%20Element.md)
+- [HTML Draggable](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Draggable.md)
+- [HTML Using HTML Comments](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Using%20HTML%20Comments.md)

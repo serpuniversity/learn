@@ -138,3 +138,10 @@ The processing model requires browser support for specific IDL attributes:
 
 This processing model ensures that image map regions behave correctly across browsers while supporting modern accessibility and security features.
 
+## References
+
+- [HTML Attribute Dirname](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Dirname.md)
+- [HTML Relmodulepreload](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Relmodulepreload.md)
+- [HTML Understanding Quirks And Standards Modes](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Understanding%20Quirks%20And%20Standards%20Modes.md)
+- [HTML Attribute Step](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Step.md)
+- [HTML use Cross Origin Images In A Canvas](https://github.com/serpuniversity/learn/blob/main/html/HTML%20use%20Cross%20Origin%20Images%20In%20A%20Canvas.md)

@@ -152,3 +152,10 @@ The `<figure>` element's capabilities extend to non-image content, including tex
 
 In this example, the `<figure>` element groups a code snippet with its descriptive caption, demonstrating the element's flexibility in managing various content types while maintaining semantic accuracy and accessibility.
 
+## References
+
+- [HTML The Idiomatic Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Idiomatic%20Text%20Element.md)
+- [HTML Fieldset The Field set Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Fieldset%20The%20Field%20set%20Element.md)
+- [HTML Attribute Maxlength](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Maxlength.md)
+- [HTML dfn The Definition Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20dfn%20The%20Definition%20Element.md)
+- [HTML Part](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Part.md)

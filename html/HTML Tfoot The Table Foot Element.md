@@ -180,3 +180,10 @@ A more flexible approach uses JavaScript to manipulate the `<tfoot>` element's p
 
 In HTML4, the `<tfoot>` element's placement had different requirements. It could not be placed after `<tbody>` and `<tr>` elements, though the specification has since evolved to allow this for better table rendering and printing capabilities. The element's structure enables advanced table features like independent scrolling of the table body, header, and footer, particularly useful for large tables spanning multiple pages.
 
+## References
+
+- [HTML Itemtype](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Itemtype.md)
+- [HTML li The List Item Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20li%20The%20List%20Item%20Element.md)
+- [HTML The Textarea Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Textarea%20Element.md)
+- [HTML The Footer Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Footer%20Element.md)
+- [HTML Attribute rel](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20rel.md)

@@ -97,3 +97,10 @@ Though widely supported, the attribute's behavior can vary between browsers and 
 
 To maximize effectiveness, developers should implement the attribute alongside server-side validation. The attribute's client-side functionality provides immediate feedback to users, while server-side processing ensures complete security and reliability. This combined approach helps guide users toward correct file types while preventing potential security vulnerabilities.
 
+## References
+
+- [HTML bdi The Bidirectional Isolate Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20bdi%20The%20Bidirectional%20Isolate%20Element.md)
+- [HTML Attribute Autocomplete](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Autocomplete.md)
+- [HTML Inert](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Inert.md)
+- [HTML Style](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Style.md)
+- [HTML Attribute Minlength](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Minlength.md)

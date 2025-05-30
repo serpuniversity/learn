@@ -77,3 +77,10 @@ The potential impact on code structure represents another consideration. The use
 
 In conclusion, while the `<base>` element offers powerful capabilities for URL management, its implementation requires careful planning to maintain both functionality and security across diverse web development environments.
 
+## References
+
+- [HTML Marquee The Marquee Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Marquee%20The%20Marquee%20Element.md)
+- [HTML The Mark Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Mark%20Text%20Element.md)
+- [HTML Attribute Step](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Step.md)
+- [HTML q The Inline Quotation Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20q%20The%20Inline%20Quotation%20Element.md)
+- [HTML del The Deleted Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20del%20The%20Deleted%20Text%20Element.md)

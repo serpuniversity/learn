@@ -62,3 +62,10 @@ Developers can further enhance accessibility by using standard HTML attributes l
 
 The `<rp>` element's design principles align with Web Content Accessibility Guidelines (WCAG) requirements, particularly in relation to providing contextually meaningful information through text alternatives. By ensuring that pronunciation information remains visible and accessible, the element supports inclusive design practices for multilingual web content.
 
+## References
+
+- [HTML The Header Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Header%20Element.md)
+- [HTML nav The Navigation Section Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20nav%20The%20Navigation%20Section%20Element.md)
+- [HTML Colgroup The Table Column Group Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Colgroup%20The%20Table%20Column%20Group%20Element.md)
+- [HTML The Idiomatic Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Idiomatic%20Text%20Element.md)
+- [HTML The Strong Importance Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Strong%20Importance%20Element.md)

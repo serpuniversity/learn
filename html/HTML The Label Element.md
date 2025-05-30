@@ -189,3 +189,10 @@ Since `<label>` has no specific styling requirements, authors can use standard C
 
 A crucial aspect of `<label>` is its ability to toggle focus between itself and its associated input control. When a `<label>` is clicked, it sends a focus event to the corresponding input, making it easier for users to activate form fields. This functionality works seamlessly for all supported input types and other labelable elements, maintaining consistent behavior across different control types.
 
+## References
+
+- [HTML Author Fast Loading HTML Pages](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Author%20Fast%20Loading%20HTML%20Pages.md)
+- [HTML Attribute Disabled](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Disabled.md)
+- [HTML rtc The Ruby Text Container Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20rtc%20The%20Ruby%20Text%20Container%20Element.md)
+- [HTML Draggable](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Draggable.md)
+- [HTML Relnoopener](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Relnoopener.md)

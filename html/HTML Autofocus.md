@@ -180,3 +180,10 @@ The most practical application of autofocus involves single-element focus scenar
 
 Browser-specific implementation details align closely with these fundamentals. For example, Chrome and Safari require version 15 and 6, respectively, to support autofocus on form elements (MDN Web Docs, n.d.). Similarly, Internet Explorer and the Edge browser maintain consistent support across their respective versions, while Opera requires a minimum version of 14 for full functionality (MDN Web Docs, n.d.). Overall, the attribute's implementation demonstrates strong cross-browser compatibility with minimal version requirements, facilitating its widespread adoption across modern web development practices (MDN Web Docs, n.d.).
 
+## References
+
+- [HTML Relnoopener](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Relnoopener.md)
+- [HTML Relpreload](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Relpreload.md)
+- [HTML Title](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Title.md)
+- [HTML Cheatsheet For Syntax And Common Tasks](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Cheatsheet%20For%20Syntax%20And%20Common%20Tasks.md)
+- [HTML Nobr The non Breaking Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Nobr%20The%20non%20Breaking%20Text%20Element.md)

@@ -207,3 +207,10 @@ The span element within the gauge needs additional properties:
 
 Modern browsers support the meter element, with current browser support at 53% as of February 2013 [doc2]. While most browsers display the element correctly, developers should test across different environments to ensure consistent visual representation. The element's behavior is generally consistent for basic functionality across modern browsers [doc3].
 
+## References
+
+- [HTML Viewport Meta tag](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Viewport%20Meta%20tag.md)
+- [HTML Spellcheck](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Spellcheck.md)
+- [HTML q The Inline Quotation Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20q%20The%20Inline%20Quotation%20Element.md)
+- [HTML The HTML Option Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20HTML%20Option%20Element.md)
+- [HTML The External Resource Link Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20External%20Resource%20Link%20Element.md)

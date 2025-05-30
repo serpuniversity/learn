@@ -56,3 +56,10 @@ The element belongs to the Text tag group in HTML and shares common ancestry wit
 
 The `<u>` tag's role in HTML5 has evolved significantly from its earlier incarnation. While HTML 4 deprecated the element, its semantic restoration in HTML5 preserves its core functionality while expanding its conceptual framework (Document: "`<u>`: The Unarticulated Annotation (Underline) element - HTML"). The modern `<u>` tag represents non-textual annotations, most commonly used for indicating misspelled words and marking proper names in Chinese text (Document: "`<u>`: The Unarticulated Annotation (Underline) element - HTML")
 
+## References
+
+- [HTML Strike](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Strike.md)
+- [HTML Noframes The Frame Fallback Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Noframes%20The%20Frame%20Fallback%20Element.md)
+- [HTML del The Deleted Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20del%20The%20Deleted%20Text%20Element.md)
+- [HTML rt The Ruby Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20rt%20The%20Ruby%20Text%20Element.md)
+- [HTML Attribute Disabled](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Disabled.md)

@@ -148,3 +148,10 @@ Browser compatibility includes Internet Explorer 10, Firefox 43, Chrome 45, Edge
 
 The attribute works in conjunction with server-side validation, as noted in the documentation. Developers are advised to maintain comprehensive validation strategies, including both client-side `<input min="">` checks and server-side validation processes to ensure data integrity and security.
 
+## References
+
+- [HTML del The Deleted Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20del%20The%20Deleted%20Text%20Element.md)
+- [HTML Reldns Prefetch](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Reldns%20Prefetch.md)
+- [HTML Attribute Readonly](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Readonly.md)
+- [HTML Slot](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Slot.md)
+- [HTML Accesskey](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Accesskey.md)

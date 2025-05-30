@@ -86,3 +86,10 @@ The choice between these modes affects both development ease and browser compati
 
 Browser compatibility considerations further emphasize the importance of Standards Mode. The presence of a valid doctype declaration, particularly the simplified `<!DOCTYPE html>`, triggers Standards Mode in all modern browsers, preventing unexpected rendering issues. This mode selection significantly impacts how browsers interpret and render content, with standards-compliant code benefitting from enhanced performance optimizations and feature support.
 
+## References
+
+- [HTML tt The Teletype Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20tt%20The%20Teletype%20Text%20Element.md)
+- [HTML h1 h6 The HTML Section Heading Elements](https://github.com/serpuniversity/learn/blob/main/html/HTML%20h1%20h6%20The%20HTML%20Section%20Heading%20Elements.md)
+- [HTML dir The Directory Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20dir%20The%20Directory%20Element.md)
+- [HTML hr The Thematic Break Horizontal Rule Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20hr%20The%20Thematic%20Break%20Horizontal%20Rule%20Element.md)
+- [HTML Nonce](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Nonce.md)

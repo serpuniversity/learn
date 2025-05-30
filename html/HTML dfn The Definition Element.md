@@ -70,3 +70,10 @@ The `<dt>`/`<dd>` pairing offers another effective method for implementing defin
 
 A practical example in action can be seen in a technical documentation context: "The `<dfn>`HTTP status code`</dfn>` is a numerical code in the response from an HTTP request to indicate the status of the request. These codes provide information about the processing of the request and can be 1xx (informational), 2xx (success), 3xx (redirection), 4xx (client error), or 5xx (server error)." This complete definition demonstrates how `<dfn>` elements work within a larger documentation structure, providing clear and comprehensive explanations for technical concepts.
 
+## References
+
+- [HTML Viewport Meta tag](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Viewport%20Meta%20tag.md)
+- [HTML](https://github.com/serpuniversity/learn/blob/main/html/HTML.md)
+- [HTML Microformats](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Microformats.md)
+- [HTML rb The Ruby Base Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20rb%20The%20Ruby%20Base%20Element.md)
+- [HTML The HTML Document Root Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20HTML%20Document%20Root%20Element.md)

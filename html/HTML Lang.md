@@ -74,3 +74,10 @@ The `lang` attribute significantly influences how screen readers process content
 
 Browser support varies widely: Chrome and Opera fully support the attribute, while older browsers like Firefox, Internet Explorer, and Safari lack implementation. Hyphenation algorithms differ between languages, and correct declaration is crucial for proper text processing. Incorrect language declarations can lead to misaligned hyphenation patterns, incorrect date format rendering, and misinterpreted number input. The attribute's impact extends to modern web development practices, particularly in multilingual website construction and accessibility compliance.
 
+## References
+
+- [HTML The Button Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Button%20Element.md)
+- [HTML Understanding Quirks And Standards Modes](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Understanding%20Quirks%20And%20Standards%20Modes.md)
+- [HTML dir](https://github.com/serpuniversity/learn/blob/main/html/HTML%20dir.md)
+- [HTML Microformats](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Microformats.md)
+- [HTML Attribute Dirname](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Dirname.md)

@@ -161,3 +161,10 @@ The anchor element supports linking to alternate style sheets, a feature particu
 
 To accommodate diverse content types, the element incorporates the charset attribute, which specifies the character encoding of the resource. This ensures proper rendering of text content across different linguistic and technical contexts. Additionally, the type attribute provides an advisory hint about the content type of the link target, allowing user agents to implement appropriate fallback mechanisms when unsupported content types are encountered. The rel and rev attributes further expand the element's capabilities by describing relationships between documents, with keywords including help, license, next, prev, and pingback, among others.
 
+## References
+
+- [HTML Constraint Validation](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Constraint%20Validation.md)
+- [HTML Attribute Reference](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Reference.md)
+- [HTML Autofocus](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Autofocus.md)
+- [HTML Relprefetch](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Relprefetch.md)
+- [HTML The Header Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Header%20Element.md)

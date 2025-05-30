@@ -155,3 +155,10 @@ The HTML itemid attribute requires careful implementation to ensure proper funct
 
 By following these guidelines, developers can effectively utilize the itemid attribute to enhance microdata implementations while ensuring compatibility and proper functionality across modern web browsers.
 
+## References
+
+- [HTML The Output Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Output%20Element.md)
+- [HTML Dialog The Dialog Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Dialog%20The%20Dialog%20Element.md)
+- [HTML](https://github.com/serpuniversity/learn/blob/main/html/HTML.md)
+- [HTML Using Microformats In HTML](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Using%20Microformats%20In%20HTML.md)
+- [HTML Draggable](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Draggable.md)

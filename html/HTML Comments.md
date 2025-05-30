@@ -188,3 +188,10 @@ Best practices for consistent support:
 
 The text also recommends using "<%-- --%>" as an alternative comment structure for nested comments, though notes this is a workaround rather than official support. Developers are encouraged to test comment usage across environments to ensure consistent functionality.
 
+## References
+
+- [HTML Fencedframe The Fenced Frame Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Fencedframe%20The%20Fenced%20Frame%20Element.md)
+- [HTML dfn The Definition Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20dfn%20The%20Definition%20Element.md)
+- [HTML div The Content Division Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20div%20The%20Content%20Division%20Element.md)
+- [HTML The Embed Text Track Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Embed%20Text%20Track%20Element.md)
+- [HTML Attribute max](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20max.md)

@@ -125,3 +125,10 @@ summary::marker {
 
 Developers using Internet Explorer 11 or Safari should be aware of browser limitations when customizing these elements. Modern browsers support advanced styling techniques, including animations and transitions, while maintaining compatibility with older systems.
 
+## References
+
+- [HTML The Table Caption Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Table%20Caption%20Element.md)
+- [HTML Marquee The Marquee Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Marquee%20The%20Marquee%20Element.md)
+- [HTML Class](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Class.md)
+- [HTML Relpreconnect](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Relpreconnect.md)
+- [HTML Attribute min](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20min.md)

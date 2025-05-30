@@ -106,3 +106,10 @@ The tag's basic functionality remains unchanged: it creates a visual separation 
 
 Developers continue to use the tag when visually separating content between distinct topics or themes. The element's default styling properties, including automatic center alignment and 1px inset border, provide a clean visual separation that requires minimal additional styling for most use cases. Modern implementations often combine percentage widths with margin properties to ensure consistent appearance across devices, while frameworks like Bootstrap provide classes for controlled styling options.
 
+## References
+
+- [HTML br The Line Break Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20br%20The%20Line%20Break%20Element.md)
+- [HTML The Contact Address Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Contact%20Address%20Element.md)
+- [HTML The Content Span Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Content%20Span%20Element.md)
+- [HTML The Textarea Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Textarea%20Element.md)
+- [HTML The Video Embed Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Video%20Embed%20Element.md)

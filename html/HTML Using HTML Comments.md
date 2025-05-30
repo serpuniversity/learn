@@ -166,3 +166,10 @@ Developers frequently revisit old projects, and comments serve as valuable futur
 
 While comments provide a convenient way to store backup versions of code, developers should use this method judiciously. For small projects, brief comments can serve as a practical backup solution, but larger projects may require more robust version control systems. The key is to use comments as a lightweight documentation tool rather than a primary version control mechanism.
 
+## References
+
+- [HTML sub The Subscript Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20sub%20The%20Subscript%20Element.md)
+- [HTML The Footer Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Footer%20Element.md)
+- [HTML is](https://github.com/serpuniversity/learn/blob/main/html/HTML%20is.md)
+- [HTML Microformats](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Microformats.md)
+- [HTML Constraint Validation](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Constraint%20Validation.md)

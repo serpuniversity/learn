@@ -112,3 +112,10 @@ The element's machine-readable capabilities also benefit content management syst
 
 Browser compatibility remains a key consideration, with modern browsers supporting the element while older versions require workarounds like the HTML5 Shiv for proper styling. Despite this limitation, the `<time>` element has maintained its importance in web development, particularly for applications requiring precise date and time handling. Its role in both accessibility and SEO demonstrates the ongoing relevance of semantic markup in modern web development practices.
 
+## References
+
+- [HTML Class](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Class.md)
+- [HTML Cheatsheet For Syntax And Common Tasks](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Cheatsheet%20For%20Syntax%20And%20Common%20Tasks.md)
+- [HTML The Marquee Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Marquee%20Element.md)
+- [HTML The Label Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Label%20Element.md)
+- [HTML Input The HTML Input Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Input%20The%20HTML%20Input%20Element.md)

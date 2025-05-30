@@ -115,3 +115,10 @@ Best practices dictate that the attribute should be applied only to content that
 
 While modern browsers fully support the attribute, developers should still account for older user agents where complete compatibility may be necessary, though the attribute's widespread support across browser families provides robust reliability for most use cases. The combination of its functionality with JavaScript enables flexible implementation, making it a preferred choice for managing visibility in dynamic web applications.
 
+## References
+
+- [HTML The Generic Section Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Generic%20Section%20Element.md)
+- [HTML Style](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Style.md)
+- [HTML The Contact Address Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Contact%20Address%20Element.md)
+- [HTML Microformats](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Microformats.md)
+- [HTML Relpreload](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Relpreload.md)

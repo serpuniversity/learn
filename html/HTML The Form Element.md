@@ -134,3 +134,10 @@ Best practice also emphasizes clear and concise form design. Each form control s
 
 For developers working with form elements, understanding event handling is crucial. Most form controls generate events such as input, change, and submit, which can be used to validate user input before submission. Modern approaches encourage the use of JavaScript frameworks and libraries, which provide robust methods for managing form data and improving user interaction. By following these guidelines, developers can create forms that are both functional and user-friendly, ensuring efficient data collection while maintaining standards compliance.
 
+## References
+
+- [HTML Thead The Table Head Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Thead%20The%20Table%20Head%20Element.md)
+- [HTML Tabindex](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Tabindex.md)
+- [HTML bdo The Bidirectional Text Override Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20bdo%20The%20Bidirectional%20Text%20Override%20Element.md)
+- [HTML Head The Document Metadata Header Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Head%20The%20Document%20Metadata%20Header%20Element.md)
+- [HTML Standard Metadata Names](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Standard%20Metadata%20Names.md)

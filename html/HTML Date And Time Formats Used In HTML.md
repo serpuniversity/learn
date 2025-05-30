@@ -146,3 +146,10 @@ developers can implement basic formatting guidance through existing attributes:
 
 However, the fundamental display format remains under browser control, with the HTML5 specification referencing the RFC 3339 format (`yyyy-mm-dd`) used in standard form submissions.
 
+## References
+
+- [HTML col The Table Column Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20col%20The%20Table%20Column%20Element.md)
+- [HTML p The Paragraph Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20p%20The%20Paragraph%20Element.md)
+- [HTML Relpreconnect](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Relpreconnect.md)
+- [HTML Attribute Capture](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Capture.md)
+- [HTML Data](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Data.md)

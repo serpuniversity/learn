@@ -82,3 +82,10 @@ color allows developers to change the text color for better visibility or themat
 
 Additional CSS properties influence the appearance of subscripted text, including line-height, text-shadow, and transform. However, these generally require more advanced knowledge of web design principles and should be used judiciously to maintain semantic correctness and accessibility.
 
+## References
+
+- [HTML Script Type Attribute](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Script%20Type%20Attribute.md)
+- [HTML use Cross Origin Images In A Canvas](https://github.com/serpuniversity/learn/blob/main/html/HTML%20use%20Cross%20Origin%20Images%20In%20A%20Canvas.md)
+- [HTML xmp](https://github.com/serpuniversity/learn/blob/main/html/HTML%20xmp.md)
+- [HTML Nobr The non Breaking Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Nobr%20The%20non%20Breaking%20Text%20Element.md)
+- [HTML h1 h6 The HTML Section Heading Elements](https://github.com/serpuniversity/learn/blob/main/html/HTML%20h1%20h6%20The%20HTML%20Section%20Heading%20Elements.md)

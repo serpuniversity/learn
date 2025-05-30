@@ -118,3 +118,10 @@ For developers implementing keyboard input elements, the tag provides a clear se
 
 The element's widespread support across browsers and its long-standing presence in the HTML standard (Document 1) make it a reliable choice for creating keyboard input representations on the web, ensuring consistent behavior across different platforms and devices.
 
+## References
+
+- [HTML The Embed Text Track Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Embed%20Text%20Track%20Element.md)
+- [HTML The HTML Document Root Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20HTML%20Document%20Root%20Element.md)
+- [HTML The Details Disclosure Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Details%20Disclosure%20Element.md)
+- [HTML The Image map Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Image%20map%20Element.md)
+- [HTML Itemid](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Itemid.md)

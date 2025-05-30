@@ -273,3 +273,10 @@ For developers working with legacy systems, the MDN Web Docs provide detailed in
 
 In practical applications, authors can test their implementation using WebAIM's recommended procedure: first identifying groups of related options, then grouping them with `<optgroup>` elements (Source: H85: Using optgroup to group option elements inside a select). This approach helps ensure that related options are properly organized for both sighted and screen reader users, while maintaining a clear and logical structure for the selection list (Source: H85: Using OPTGROUP to group OPTION elements inside ...).
 
+## References
+
+- [HTML The Graphics Canvas Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Graphics%20Canvas%20Element.md)
+- [HTML Anchor](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Anchor.md)
+- [HTML Allowing Cross Origin use Of Images And Canvas](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Allowing%20Cross%20Origin%20use%20Of%20Images%20And%20Canvas.md)
+- [HTML Script Type Attribute](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Script%20Type%20Attribute.md)
+- [HTML Attribute Autocomplete](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Autocomplete.md)

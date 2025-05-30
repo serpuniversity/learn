@@ -97,3 +97,10 @@ These default settings provide a clean foundation for form structuring while all
 
 The `<legend>` element must appear as the immediate first child of a `<fieldset>` element to function correctly. This structure ensures proper programmatic association with the fieldset, facilitating accessibility for assistive technologies. In cases where this structure cannot be maintained, ARIA attributes can provide necessary grouping and labeling information for assistive technologies.
 
+## References
+
+- [HTML The Textarea Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Textarea%20Element.md)
+- [HTML The Field set Legend Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Field%20set%20Legend%20Element.md)
+- [HTML xmp](https://github.com/serpuniversity/learn/blob/main/html/HTML%20xmp.md)
+- [HTML Anchor](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Anchor.md)
+- [HTML Attribute Placeholder](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Placeholder.md)

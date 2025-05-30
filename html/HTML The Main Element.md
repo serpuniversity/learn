@@ -143,3 +143,10 @@ The element supports a wide range of content, including but not limited to `<li>
 
 The main element functions as a primary landmark, allowing assistive technologies to identify and navigate significant document sections. Authors can enable skip navigation through proper id attribute usage, allowing users to bypass repeated content sections such as navigation menus or copyright notices. This functionality is particularly beneficial for users who rely on screen readers or other assistive technologies.
 
+## References
+
+- [HTML tr The Table row Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20tr%20The%20Table%20row%20Element.md)
+- [HTML Optgroup The Option Group Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Optgroup%20The%20Option%20Group%20Element.md)
+- [HTML Relprerender](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Relprerender.md)
+- [HTML Fencedframe The Fenced Frame Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Fencedframe%20The%20Fenced%20Frame%20Element.md)
+- [HTML Strike](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Strike.md)

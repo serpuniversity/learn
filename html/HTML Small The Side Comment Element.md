@@ -59,3 +59,10 @@ Authors are encouraged to exercise judgment when deciding whether to use `<small
 
 For authors concerned about separation between structure and presentation, the small element's compatibility with both global and event attributes offers flexibility for interactive applications. The element's simple structure and consistent browser support make it a reliable choice for formatting secondary content. However, when using the small element for extended content or entire sections, developers are encouraged to supplement its use with additional semantic elements or CSS classes for greater accessibility and maintainability.
 
+## References
+
+- [HTML Attribute Step](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Step.md)
+- [HTML Using Microdata In HTML](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Using%20Microdata%20In%20HTML.md)
+- [HTML tr The Table row Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20tr%20The%20Table%20row%20Element.md)
+- [HTML Using HTML Form Validation And The Constraint Validation API](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Using%20HTML%20Form%20Validation%20And%20The%20Constraint%20Validation%20API.md)
+- [HTML The Generic Section Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Generic%20Section%20Element.md)

@@ -128,3 +128,10 @@ The attribute's technical foundation aligns with broader HTML principles. As not
 
 From a technical perspective, the attribute's implementation requires matching `id` and `for` values, a requirement that draws from HTML's fundamental structure for element identification and association. Modern web development practices continue to support this attribute through updated specifications and browser implementations, maintaining its relevance in contemporary web development while accommodating evolving accessibility standards.
 
+## References
+
+- [HTML The Content Span Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Content%20Span%20Element.md)
+- [HTML Class](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Class.md)
+- [HTML The Contact Address Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Contact%20Address%20Element.md)
+- [HTML Draggable](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Draggable.md)
+- [HTML li The List Item Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20li%20The%20List%20Item%20Element.md)

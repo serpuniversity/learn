@@ -122,3 +122,10 @@ As of March 2022, all major browsers—Google Chrome, Edge, Firefox, Opera, and 
 
 The latest specifications mandate that nonces be stored internally within HTML elements rather than exposed as visible attributes. This architectural choice prevents attackers from extracting nonce values through content attribute mechanisms, while facilitating secure implementation through programmatic access methods. The internal storage model ensures that nonces remain protected from exposure through persistent storage channels or cross-site scripting vectors.
 
+## References
+
+- [HTML The Generic Search Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Generic%20Search%20Element.md)
+- [HTML Enterkeyhint](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Enterkeyhint.md)
+- [HTML Relme](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Relme.md)
+- [HTML The Figure With Optional Caption Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Figure%20With%20Optional%20Caption%20Element.md)
+- [HTML Title](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Title.md)

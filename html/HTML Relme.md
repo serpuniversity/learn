@@ -102,3 +102,10 @@ To implement rel=me effectively, web developers should follow these best practic
 
 6. Monitor implementation effectiveness: Regularly review rel=me connections to ensure their continued effectiveness. This includes verifying reciprocal relationships and checking for any platform-specific implementation requirements.
 
+## References
+
+- [HTML br The Line Break Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20br%20The%20Line%20Break%20Element.md)
+- [HTML Alternate Stylesheet](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Alternate%20Stylesheet.md)
+- [HTML sub The Subscript Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20sub%20The%20Subscript%20Element.md)
+- [HTML Using Microformats In HTML](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Using%20Microformats%20In%20HTML.md)
+- [HTML The Content Span Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Content%20Span%20Element.md)

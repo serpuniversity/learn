@@ -117,3 +117,10 @@ Developers should start with basic HTML5 validation attributes and enhance with 
 
 4. Provide clear, actionable error messages to guide users in correcting their inputs
 
+## References
+
+- [HTML Itemprop](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Itemprop.md)
+- [HTML Relnoreferrer](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Relnoreferrer.md)
+- [HTML The Date Time Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Date%20Time%20Element.md)
+- [HTML add A Hitmap On top Of An Image](https://github.com/serpuniversity/learn/blob/main/html/HTML%20add%20A%20Hitmap%20On%20top%20Of%20An%20Image.md)
+- [HTML Attribute Placeholder](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Placeholder.md)

@@ -76,3 +76,10 @@ date: 2025-05-29
 
 `<p>`When working with structured content like articles or stories, authors should maintain proper heading hierarchy while using `<p>` elements for related phrasing content. For instance, a story about apples might include an `<h2>`Apple`</h2>` heading followed by multiple `<p>` paragraphs discussing different varieties. This structure provides both semantic clarity and proper content organization, while allowing for flexible styling and accessibility improvements through CSS and appropriate markup techniques.`</p>`
 
+## References
+
+- [HTML Alternate Stylesheet](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Alternate%20Stylesheet.md)
+- [HTML b The Bring Attention To Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20b%20The%20Bring%20Attention%20To%20Element.md)
+- [HTML Class](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Class.md)
+- [HTML bdo The Bidirectional Text Override Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20bdo%20The%20Bidirectional%20Text%20Override%20Element.md)
+- [HTML Iframe The Inline Frame Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Iframe%20The%20Inline%20Frame%20Element.md)

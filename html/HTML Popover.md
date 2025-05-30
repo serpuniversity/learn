@@ -151,3 +151,10 @@ The JavaScript API includes three methods for controlling popovers: `showPopover
 
 The API supports several advanced features, including nested popovers and customizable behavior through ARIA attributes. For nested popovers, developers can use the `source` option in `HTMLElement.showPopover()` or `HTMLElement.togglePopover()` methods to adjust focus navigation order while maintaining control over individual popover states. Additionally, the API creates implicit ARIA relationships between popovers and their invokers, enhancing accessibility through updated keyboard focus navigation and implicit `aria-details` and `aria-expanded` relationships.
 
+## References
+
+- [HTML Blockquote The Block Quotation Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Blockquote%20The%20Block%20Quotation%20Element.md)
+- [HTML img The Image Embed Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20img%20The%20Image%20Embed%20Element.md)
+- [HTML Attribute For](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20For.md)
+- [HTML The Embed Text Track Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Embed%20Text%20Track%20Element.md)
+- [HTML Fencedframe The Fenced Frame Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Fencedframe%20The%20Fenced%20Frame%20Element.md)

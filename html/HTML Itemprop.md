@@ -186,3 +186,10 @@ The URL property element is particularly useful for specifying item URLs, while 
 
 To maximize effectiveness, developers should focus on accurate syntax and proper use of itemtype attributes. Common errors include incorrect syntax and missing itemtype attributes, both of which can prevent structured data from being correctly interpreted by search engines. Regular testing and validation help identify and resolve these issues, ensuring that structured data is properly indexed and discoverable by users.
 
+## References
+
+- [HTML li The List Item Element Demo](https://github.com/serpuniversity/learn/blob/main/html/HTML%20li%20The%20List%20Item%20Element%20Demo.md)
+- [HTML Itemid](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Itemid.md)
+- [HTML big The Bigger Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20big%20The%20Bigger%20Text%20Element.md)
+- [HTML Lang](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Lang.md)
+- [HTML Font](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Font.md)

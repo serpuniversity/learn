@@ -86,3 +86,10 @@ Password fields benefit from the attribute's ability to prevent caching while al
 
 The attribute supports advanced security measures through detailed token configurations, though developers should maintain basic "off" settings for maximum security. For instance, including multiple tokens in the attribute value allows for specifying field types while maintaining caching restrictions (Source: Input elements should have autocomplete attributes). This nuanced approach enables developers to balance user convenience with security requirements effectively.
 
+## References
+
+- [HTML The Marquee Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Marquee%20Element.md)
+- [HTML Content Categories](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Content%20Categories.md)
+- [HTML Attribute Capture](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Capture.md)
+- [HTML Attribute Placeholder](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Placeholder.md)
+- [HTML Hidden](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Hidden.md)

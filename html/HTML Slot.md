@@ -182,3 +182,10 @@ The :host pseudo-class targets the custom element itself, while the :host([highl
 
 Understanding these styling techniques is crucial for building modular and maintainable web components. By combining ::slotted() and ::part(), developers can ensure that their custom elements maintain their encapsulated structure while still allowing for flexible and controlled content styling.
 
+## References
+
+- [HTML Plaintext The Plain Text Element Deprecated](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Plaintext%20The%20Plain%20Text%20Element%20Deprecated.md)
+- [HTML Relmodulepreload](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Relmodulepreload.md)
+- [HTML Autocapitalize](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Autocapitalize.md)
+- [HTML Input The HTML Input Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Input%20The%20HTML%20Input%20Element.md)
+- [HTML The Content Span Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Content%20Span%20Element.md)

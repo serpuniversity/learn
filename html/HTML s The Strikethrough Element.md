@@ -309,3 +309,10 @@ To ensure consistent rendering across browsers, developers should implement cros
 
 For more advanced customization, the `<s>` tag's :after pseudo-element provides flexibility in line style and color. As noted in the source material, this technique enables precise control while maintaining compatibility across modern browsers.
 
+## References
+
+- [HTML Cheatsheet For Syntax And Common Tasks](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Cheatsheet%20For%20Syntax%20And%20Common%20Tasks.md)
+- [HTML dl The Description List Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20dl%20The%20Description%20List%20Element.md)
+- [HTML Font](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Font.md)
+- [HTML Strike](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Strike.md)
+- [HTML The Header Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Header%20Element.md)

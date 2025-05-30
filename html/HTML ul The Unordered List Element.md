@@ -165,3 +165,10 @@ Unlike some complex HTML elements, the `<ul>` doesn't carry specific accessibili
 
 For developers implementing accessibility features, the `<ul>` element works well with standard ARIA attributes like role="list" when custom list styles are applied. This helps screen readers and assistive technologies correctly interpret the list structure, ensuring users can navigate and understand the content regardless of visual display.
 
+## References
+
+- [HTML pre The Preformatted Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20pre%20The%20Preformatted%20Text%20Element.md)
+- [HTML Draggable](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Draggable.md)
+- [HTML Tbody The Table Body Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Tbody%20The%20Table%20Body%20Element.md)
+- [HTML The Strong Importance Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Strong%20Importance%20Element.md)
+- [HTML The Figure With Optional Caption Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Figure%20With%20Optional%20Caption%20Element.md)

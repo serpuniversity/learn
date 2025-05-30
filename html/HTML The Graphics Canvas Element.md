@@ -138,3 +138,10 @@ The canvas 2D API supports multiple drawing styles through the Text API, providi
 
 The API also supports gradient rendering through createLinearGradient and createRadialGradient methods, enabling smooth color transitions between multiple color stops. While specific algorithms are not mandated, examples include bilinear scaling for lower-quality interpolation and bicubic or Lanczos scaling for higher-quality alternatives. The shadow API offers control through shadowOffsetX, shadowOffsetY, shadowBlur, and shadowColor properties, while transformation functions like scale(sx, sy), rotate(angle), and translate(x, y) enable efficient graphic manipulation.
 
+## References
+
+- [HTML dt The Description Term Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20dt%20The%20Description%20Term%20Element.md)
+- [HTML The Field set Legend Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Field%20set%20Legend%20Element.md)
+- [HTML The Ruby Annotation Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Ruby%20Annotation%20Element.md)
+- [HTML Itemtype](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Itemtype.md)
+- [HTML Anchor](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Anchor.md)

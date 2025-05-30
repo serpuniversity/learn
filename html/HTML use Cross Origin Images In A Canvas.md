@@ -442,3 +442,10 @@ By setting `crossOrigin` to "Anonymous," developers enable non-authenticated cro
 
 The server configuration must enable access to specific file types, as detailed in the provided example. While the implementation supports a wide range of image formats, developers must remain vigilant about security implications. The CORS configuration must specify the allowed file extensions to prevent unauthorized content access.
 
+## References
+
+- [HTML Accesskey](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Accesskey.md)
+- [HTML The Progress Indicator Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Progress%20Indicator%20Element.md)
+- [HTML A The Anchor Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20A%20The%20Anchor%20Element.md)
+- [HTML Itemscope](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Itemscope.md)
+- [HTML nav The Navigation Section Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20nav%20The%20Navigation%20Section%20Element.md)

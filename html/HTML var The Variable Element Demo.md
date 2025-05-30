@@ -78,3 +78,10 @@ When `<var>` elements are misused for styling purposes, authors have several alt
 
 In conclusion, the `<var>` element plays a crucial role in representing mathematical and programming variables, distinguished by its default italic styling and semantic specialization. By following best practices of proper nesting, structured content, and appropriate use cases, authors can ensure their implementations maintain both semantic clarity and visual consistency across document types (MDN Web Docs, HTML Standard).
 
+## References
+
+- [HTML Colgroup The Table Column Group Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Colgroup%20The%20Table%20Column%20Group%20Element.md)
+- [HTML Global Attributes](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Global%20Attributes.md)
+- [HTML Iframe The Inline Frame Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Iframe%20The%20Inline%20Frame%20Element.md)
+- [HTML The Menu Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Menu%20Element.md)
+- [HTML xmp](https://github.com/serpuniversity/learn/blob/main/html/HTML%20xmp.md)

@@ -154,3 +154,10 @@ The attribute retains focusability while preventing direct modification (10, 20)
 
 All modern browsers support readonly attributes since their introduction in HTML 4.01 (3, 22). The attribute maintains consistent behavior across implementations, with no reported inconsistencies in handling across different browsers and versions (13).
 
+## References
+
+- [HTML h1 h6 The HTML Section Heading Elements](https://github.com/serpuniversity/learn/blob/main/html/HTML%20h1%20h6%20The%20HTML%20Section%20Heading%20Elements.md)
+- [HTML id](https://github.com/serpuniversity/learn/blob/main/html/HTML%20id.md)
+- [HTML The External Object Element Demo](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20External%20Object%20Element%20Demo.md)
+- [HTML Itemscope](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Itemscope.md)
+- [HTML Attribute For](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20For.md)

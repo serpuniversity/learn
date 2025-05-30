@@ -172,3 +172,10 @@ textarea {
 
 While modern browsers provide excellent support for the textarea element, developers must account for older versions and specific edge cases. The control has been consistently supported since HTML 2.0 (1995), but developers should test on Internet Explorer versions 6-8, which may exhibit different rendering behaviors. Additionally, certain attributes like `wrap`, `autocorrect`, and ARIA roles require careful implementation to ensure consistent behavior across all targeted browsers and devices.
 
+## References
+
+- [HTML em The Emphasis Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20em%20The%20Emphasis%20Element.md)
+- [HTML Relmodulepreload](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Relmodulepreload.md)
+- [HTML The Document Title Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Document%20Title%20Element.md)
+- [HTML Script The Script Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Script%20The%20Script%20Element.md)
+- [HTML br The Line Break Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20br%20The%20Line%20Break%20Element.md)

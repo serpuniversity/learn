@@ -59,3 +59,10 @@ When dealing with complex components that manage their own focus, developers can
 
 The attribute's compatibility across modern browsers ensures reliable implementation for developers aiming to enhance keyboard accessibility through controlled focus ordering. While some historical browsers and versions may exhibit varying levels of support, current implementations maintain consistent behavior across the major browser platforms.
 
+## References
+
+- [HTML](https://github.com/serpuniversity/learn/blob/main/html/HTML.md)
+- [HTML The Document Title Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Document%20Title%20Element.md)
+- [HTML Attribute Accept](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Accept.md)
+- [HTML The HTML Document Root Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20HTML%20Document%20Root%20Element.md)
+- [HTML Dialog The Dialog Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Dialog%20The%20Dialog%20Element.md)

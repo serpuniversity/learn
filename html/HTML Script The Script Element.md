@@ -87,3 +87,10 @@ The document.write() method allows including another script while the DOM is not
 
 Additional approaches include using a data attribute, selecting by source URL, or creating custom elements within the script. These methods offer flexibility across development scenarios while maintaining compatibility with major browsers.
 
+## References
+
+- [HTML Content Categories](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Content%20Categories.md)
+- [HTML The Content Template Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Content%20Template%20Element.md)
+- [HTML Microformats](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Microformats.md)
+- [HTML The Media Or Image Source Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Media%20Or%20Image%20Source%20Element.md)
+- [HTML Spellcheck](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Spellcheck.md)

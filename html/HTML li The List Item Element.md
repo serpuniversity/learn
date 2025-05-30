@@ -90,3 +90,10 @@ More complex implementations might consider using a single `<a>` element that co
 
 While these approaches effectively make list items interactive, it's important to note that HTML validation tools may raise concerns about the structural integrity of the document. The W3C recommendation explicitly states that child elements of `<ul>` and `<ol>` should be `<li>` elements, which may conflict with interactive designs that wrap links around multiple items. Understanding these limitations helps developers create accessible, interactive lists while maintaining semantic correctness.
 
+## References
+
+- [HTML Translate](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Translate.md)
+- [HTML Comments](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Comments.md)
+- [HTML The Generic Search Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Generic%20Search%20Element.md)
+- [HTML Attribute min](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20min.md)
+- [HTML Samp The Sample Output Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Samp%20The%20Sample%20Output%20Element.md)

@@ -102,3 +102,10 @@ Microformats2 introduces a more robust JSON-based data model, allowing for compl
 
 The text highlights several challenges in implementing these syntaxes, particularly around language handling and data extraction. While both microformats and RDFa can use HTML element language attributes, microdata requires separate language properties. Future developments may address these issues, potentially through updated specifications and tooling improvements.
 
+## References
+
+- [HTML Tfoot The Table Foot Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Tfoot%20The%20Table%20Foot%20Element.md)
+- [HTML Relmodulepreload](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Relmodulepreload.md)
+- [HTML Using Date And Time Formats In HTML](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Using%20Date%20And%20Time%20Formats%20In%20HTML.md)
+- [HTML Relpreconnect](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Relpreconnect.md)
+- [HTML Define Terms With HTML](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Define%20Terms%20With%20HTML.md)

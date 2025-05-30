@@ -132,3 +132,10 @@ The feature works across multiple devices and browser versions, with full compat
 
 Browsers treat rel=preload as a NoState prefetch, initiating early, high-priority fetches without blocking rendering. The attribute works by creating a script element with the specified source URL and appending it to the document body. Modern browsers automatically cache preloaded resources, making them immediately available when subsequently needed. Unused preloads trigger a console warning in Chrome approximately 3 seconds after the load event, providing developers with immediate feedback on implementation effectiveness.
 
+## References
+
+- [HTML Slot](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Slot.md)
+- [HTML The Strong Importance Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Strong%20Importance%20Element.md)
+- [HTML The Embed External Content Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Embed%20External%20Content%20Element.md)
+- [HTML Link The External Resource Link Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Link%20The%20External%20Resource%20Link%20Element.md)
+- [HTML id](https://github.com/serpuniversity/learn/blob/main/html/HTML%20id.md)

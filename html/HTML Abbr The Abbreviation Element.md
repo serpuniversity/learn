@@ -85,3 +85,10 @@ The `<abbr>` element has full support across modern browsers, including Internet
 
 Web developers can control the element's styling using standard CSS properties. While browsers vary in their default presentation, common modifications include adjusting text decoration with text-decoration and controlling font style with font-variant. Developers should be aware that the element's styling can differ between browsers, making it important to test across platforms.
 
+## References
+
+- [HTML Quirks Mode](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Quirks%20Mode.md)
+- [HTML The Image map Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Image%20map%20Element.md)
+- [HTML Anchor](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Anchor.md)
+- [HTML The Media Or Image Source Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Media%20Or%20Image%20Source%20Element.md)
+- [HTML Attribute Capture](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Capture.md)

@@ -110,3 +110,10 @@ The element requires both the starting and ending tags to be present, and it mus
 
 This unique construction handles the styling limitations of the traditional `<option>` tag, which behaves as a "replaced element" OS-dependent and cannot be fully controlled with CSS beyond basic properties like background-color and color. The `<selectedcontent>` element enables developers to include icons, images, and other interactive elements within dropdown menus while maintaining consistent form behavior. For complex styling requirements, developers can utilize the appearance property to remove system-specific styling, though full customization may require alternative approaches such as replacing the select element with custom HTML structures and implementing select functionality through JavaScript.
 
+## References
+
+- [HTML dfn The Definition Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20dfn%20The%20Definition%20Element.md)
+- [HTML Acronym](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Acronym.md)
+- [HTML Selectedcontent The Selected Option Display Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Selectedcontent%20The%20Selected%20Option%20Display%20Element.md)
+- [HTML The Details Disclosure Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Details%20Disclosure%20Element.md)
+- [HTML Reldns Prefetch](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Reldns%20Prefetch.md)

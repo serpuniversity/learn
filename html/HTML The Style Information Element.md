@@ -150,3 +150,10 @@ Finally, developers often overlook proper attribute usage, particularly with med
 
 These common errors highlight the importance of following best practices for efficient CSS development. By maintaining proper syntax, avoiding inline styles where possible, understanding specificity rules, using appropriate attributes, and thoroughly testing styles across devices, developers can create maintainable, efficient, and effective web designs using the `<style>` tag.
 
+## References
+
+- [HTML Colgroup The Table Column Group Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Colgroup%20The%20Table%20Column%20Group%20Element.md)
+- [HTML Fieldset The Field set Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Fieldset%20The%20Field%20set%20Element.md)
+- [HTML pre The Preformatted Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20pre%20The%20Preformatted%20Text%20Element.md)
+- [HTML Iframe The Inline Frame Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Iframe%20The%20Inline%20Frame%20Element.md)
+- [HTML Spellcheck](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Spellcheck.md)

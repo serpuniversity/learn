@@ -144,3 +144,10 @@ The id attribute's syntax and character rules have evolved slightly between earl
 
 For developers working across different browser versions, understanding these implementation details ensures consistent behavior in both older and modern environments. The attribute's fundamental role in web development remains unchanged, maintaining its importance for precise element targeting through both CSS and JavaScript.
 
+## References
+
+- [HTML Itemscope](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Itemscope.md)
+- [HTML var The Variable Element Demo](https://github.com/serpuniversity/learn/blob/main/html/HTML%20var%20The%20Variable%20Element%20Demo.md)
+- [HTML The Idiomatic Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Idiomatic%20Text%20Element.md)
+- [HTML The Figure With Optional Caption Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Figure%20With%20Optional%20Caption%20Element.md)
+- [HTML Reldns Prefetch](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Reldns%20Prefetch.md)

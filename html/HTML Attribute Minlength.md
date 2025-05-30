@@ -161,3 +161,10 @@ Implementing minlength validation requires careful consideration of browser comp
 
 The availability of additional validation attributes like pattern provides developers with versatile options for implementing comprehensive input validation. However, the complexity of these implementations demands thorough testing across target browsers to ensure consistent user experiences and proper error handling.
 
+## References
+
+- [HTML Frame](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Frame.md)
+- [HTML The Details Disclosure Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Details%20Disclosure%20Element.md)
+- [HTML Relprefetch](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Relprefetch.md)
+- [HTML The Noscript Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Noscript%20Element.md)
+- [HTML use Cross Origin Images In A Canvas](https://github.com/serpuniversity/learn/blob/main/html/HTML%20use%20Cross%20Origin%20Images%20In%20A%20Canvas.md)

@@ -111,3 +111,10 @@ To maintain consistent appearance across different color schemes, designers shou
 
 Accessibility considerations require developers to implement both light and dark color options through media queries, using the `prefers-color-scheme` media feature to provide color-specific styles (MDN Web Docs, 2021). This responsive approach allows users to override theme color choices based on their system preferences while maintaining proper text contrast and visibility across different background conditions.
 
+## References
+
+- [HTML The Centered Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Centered%20Text%20Element.md)
+- [HTML Hgroup The Heading Group Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Hgroup%20The%20Heading%20Group%20Element.md)
+- [HTML use Data Attributes](https://github.com/serpuniversity/learn/blob/main/html/HTML%20use%20Data%20Attributes.md)
+- [HTML The Aside Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Aside%20Element.md)
+- [HTML Date And Time Formats Used In HTML](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Date%20And%20Time%20Formats%20Used%20In%20HTML.md)

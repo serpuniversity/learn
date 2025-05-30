@@ -89,3 +89,10 @@ User navigation through the element operates under strict limitations, allowing 
 
 To set content for a fencedframe, an API generates a FencedFrameConfig object, which is then applied to the element's config property. The element utilizes the object-position property for positioning adjustments and contentWidth/contentHeight properties from the config object to control visual size. These properties enable precise layout while maintaining the isolation boundary between the embedded content and host page.
 
+## References
+
+- [HTML Alternate Stylesheet](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Alternate%20Stylesheet.md)
+- [HTML Define Terms With HTML](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Define%20Terms%20With%20HTML.md)
+- [HTML Attribute Reference](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Reference.md)
+- [HTML The Date Time Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Date%20Time%20Element.md)
+- [HTML s The Strikethrough Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20s%20The%20Strikethrough%20Element.md)

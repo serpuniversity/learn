@@ -168,3 +168,10 @@ For those unable to use the HTML attribute, the HTTP `Link` header can be used: 
 
 Developers can use tools like dnstradamus to inject DNS prefetch hints into the page's HTML. Modern browsers can further optimize these hints using JavaScript and the Intersection Observer API.
 
+## References
+
+- [HTML The Output Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Output%20Element.md)
+- [HTML Reldns Prefetch](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Reldns%20Prefetch.md)
+- [HTML The Label Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Label%20Element.md)
+- [HTML The Main Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Main%20Element.md)
+- [HTML Param The Object Parameter Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Param%20The%20Object%20Parameter%20Element.md)

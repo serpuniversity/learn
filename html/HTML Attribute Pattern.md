@@ -267,3 +267,10 @@ The pattern attribute is particularly limited for certain types of data validati
 
 For date validation, the attribute's limitations become apparent when considering different date formats and century ranges. While it can provide basic validation for specific formats, the attribute is not sufficient for comprehensive date validation, which requires server-side checking to prevent security issues. In all cases, developers should prioritize clear and concise pattern descriptions, proper attribute usage, and alternative text explanations to ensure both usability and accessibility.
 
+## References
+
+- [HTML Script Type Attribute](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Script%20Type%20Attribute.md)
+- [HTML Tabindex](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Tabindex.md)
+- [HTML nav The Navigation Section Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20nav%20The%20Navigation%20Section%20Element.md)
+- [HTML Attribute Dirname](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Dirname.md)
+- [HTML The Content Template Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Content%20Template%20Element.md)

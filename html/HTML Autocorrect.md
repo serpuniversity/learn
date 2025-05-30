@@ -70,3 +70,10 @@ To ensure consistent behavior, developers should implement server-side validatio
 
 Given the current landscape, developers should consider providing clear instructions to users about when and how to enable or disable text correction features. This guidance can significantly improve user experience while mitigating potential issues arising from inconsistent browser behavior.
 
+## References
+
+- [HTML Exportparts](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Exportparts.md)
+- [HTML Using HTML Form Validation And The Constraint Validation API](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Using%20HTML%20Form%20Validation%20And%20The%20Constraint%20Validation%20API.md)
+- [HTML Attribute Dirname](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Dirname.md)
+- [HTML The Aside Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Aside%20Element.md)
+- [HTML The Generic Search Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Generic%20Search%20Element.md)

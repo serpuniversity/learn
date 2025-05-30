@@ -150,3 +150,10 @@ HTML implementations must support both scripting and non-scripting modes. Implem
 
 Data elements can be used as orphan nodes, such as creating a td element in a script. However, authors must use HTML elements only where explicitly allowed or required by other specifications, including XML compound documents where elements from other namespaces can provide relevant contexts. When embedding time or date-related information, authors should employ proper sanitization techniques, particularly when storing JSON data, where direct value assignment requires client-side decoding using JSON.parse().
 
+## References
+
+- [HTML Colgroup The Table Column Group Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Colgroup%20The%20Table%20Column%20Group%20Element.md)
+- [HTML Elements Reference](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Elements%20Reference.md)
+- [HTML The Label Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Label%20Element.md)
+- [HTML li The List Item Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20li%20The%20List%20Item%20Element.md)
+- [HTML Tfoot The Table Foot Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Tfoot%20The%20Table%20Foot%20Element.md)

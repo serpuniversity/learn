@@ -102,3 +102,10 @@ For data-* attributes specifically used in HTML5, these values are stored in a D
 
 In terms of practical usage, the attribute value size is constrained by browser implementation rather than HTML specification. For example, the entire application's properties (currently 430K) can be set as an HTML attribute using `<a onclick="...">` syntax, though the implementation is noted as "a little unreadable." This indicates that while there is no theoretical limit, developers should consider their specific use case and potential performance impacts when setting attribute values.
 
+## References
+
+- [HTML Attribute rel](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20rel.md)
+- [HTML Attribute max](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20max.md)
+- [HTML Relprefetch](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Relprefetch.md)
+- [HTML Attribute Multiple](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Multiple.md)
+- [HTML The Main Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Main%20Element.md)

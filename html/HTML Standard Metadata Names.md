@@ -206,3 +206,10 @@ The HTML Standard includes advanced features that can affect metadata implementa
 
 These implementation details demonstrate the complexity of metadata handling in the HTML Standard, requiring authors to consider not only semantic correctness but also parsing implications and implementation quirks.
 
+## References
+
+- [HTML div The Content Division Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20div%20The%20Content%20Division%20Element.md)
+- [HTML Font](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Font.md)
+- [HTML Nonce](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Nonce.md)
+- [HTML Attribute max](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20max.md)
+- [HTML The Textarea Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Textarea%20Element.md)

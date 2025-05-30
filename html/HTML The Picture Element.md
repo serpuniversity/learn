@@ -106,3 +106,10 @@ The Picture element works seamlessly with existing responsive design techniques,
 
 As of the latest specifications, the Picture element supports modern image formats including AVIF and WebP, with fallback mechanisms for older browsers. It evaluates multiple source elements in sequence, choosing the first suitable image based on the current display conditions. The element's structure requires both source and img elements, with the latter serving as a fallback when no matching source can be used.
 
+## References
+
+- [HTML Content Categories](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Content%20Categories.md)
+- [HTML dt The Description Term Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20dt%20The%20Description%20Term%20Element.md)
+- [HTML The Generic Section Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Generic%20Section%20Element.md)
+- [HTML bdo The Bidirectional Text Override Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20bdo%20The%20Bidirectional%20Text%20Override%20Element.md)
+- [HTML ol The Ordered List Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20ol%20The%20Ordered%20List%20Element.md)

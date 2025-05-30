@@ -92,3 +92,10 @@ The recommended replacement for frame-related functionality in HTML5 is the `<if
 
 Implementations of `<noframes>` in older browsers remain consistent across major browser vendors. However, developers are encouraged to consider alternative approaches for creating fallback content, particularly when targeting users with older browsers or specific accessibility requirements. Modern development best practices increasingly focus on progressive enhancement and graceful degradation, where core functionality is available to all users while additional features are provided for advanced browsers.
 
+## References
+
+- [HTML The Aside Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Aside%20Element.md)
+- [HTML Data](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Data.md)
+- [HTML Inputmode](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Inputmode.md)
+- [HTML The Menu Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Menu%20Element.md)
+- [HTML The HTML Select Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20HTML%20Select%20Element.md)

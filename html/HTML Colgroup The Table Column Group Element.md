@@ -165,3 +165,10 @@ To properly implement `<colgroup>`, it should be placed after any caption elemen
 
 For complex column styling, consider using percentage width values instead of fixed pixel measurements. This approach ensures better responsiveness across different screen sizes and devices while maintaining accessibility standards.
 
+## References
+
+- [HTML rp The Ruby Fallback Parenthesis Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20rp%20The%20Ruby%20Fallback%20Parenthesis%20Element.md)
+- [HTML add A Hitmap On top Of An Image](https://github.com/serpuniversity/learn/blob/main/html/HTML%20add%20A%20Hitmap%20On%20top%20Of%20An%20Image.md)
+- [HTML Using HTML Form Validation And The Constraint Validation API](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Using%20HTML%20Form%20Validation%20And%20The%20Constraint%20Validation%20API.md)
+- [HTML Responsive Images](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Responsive%20Images.md)
+- [HTML use Cross Origin Images In A Canvas](https://github.com/serpuniversity/learn/blob/main/html/HTML%20use%20Cross%20Origin%20Images%20In%20A%20Canvas.md)

@@ -141,3 +141,10 @@ The attribute's usage extends consistently across form elements, with specific s
 
 The specification's implementation has evolved to provide comprehensive browser support across both desktop and mobile platforms. While minor variations exist in certain versions (such as Firefox persisting dynamic disabled state across page loads), the core functionality remains consistent across implementations.
 
+## References
+
+- [HTML The Disclosure Summary Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Disclosure%20Summary%20Element.md)
+- [HTML Attribute Maxlength](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Maxlength.md)
+- [HTML use Cross Origin Images In A Canvas](https://github.com/serpuniversity/learn/blob/main/html/HTML%20use%20Cross%20Origin%20Images%20In%20A%20Canvas.md)
+- [HTML Guides](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Guides.md)
+- [HTML The Embed Audio Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Embed%20Audio%20Element.md)

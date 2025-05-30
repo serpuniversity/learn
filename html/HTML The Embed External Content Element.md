@@ -84,3 +84,10 @@ This property returns a Document object representing the content embedded within
 
 Accessibility and best practices recommend using these methods in conjunction with proper error handling and fallback mechanisms. Developers should check for support of these methods and provide alternative content or functionality for environments where they may not be available.
 
+## References
+
+- [HTML Blockquote The Block Quotation Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Blockquote%20The%20Block%20Quotation%20Element.md)
+- [HTML Enterkeyhint](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Enterkeyhint.md)
+- [HTML The Picture Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Picture%20Element.md)
+- [HTML Attribute For](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20For.md)
+- [HTML The web Component Slot Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20web%20Component%20Slot%20Element.md)

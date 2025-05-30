@@ -123,3 +123,10 @@ Developers should test across multiple browsers to ensure consistent behavior, a
 
 The attribute's value must be validated on both client and server sides to prevent malicious attempts to bypass input restrictions. While the `maxlength` attribute effectively limits input length, server-side validation remains crucial for ensuring data integrity and security.
 
+## References
+
+- [HTML Fieldset The Field set Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Fieldset%20The%20Field%20set%20Element.md)
+- [HTML Viewport Meta tag](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Viewport%20Meta%20tag.md)
+- [HTML The Progress Indicator Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Progress%20Indicator%20Element.md)
+- [HTML Microformats](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Microformats.md)
+- [HTML Data](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Data.md)

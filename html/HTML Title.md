@@ -103,3 +103,10 @@ Figure 6: Cross-browser testing for dynamic title updates
 
 Figure 7: ARIA Live Region implementation for screen reader compatibility
 
+## References
+
+- [HTML The Mark Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Mark%20Text%20Element.md)
+- [HTML Itemid](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Itemid.md)
+- [HTML Small The Side Comment Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Small%20The%20Side%20Comment%20Element.md)
+- [HTML Thead The Table Head Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Thead%20The%20Table%20Head%20Element.md)
+- [HTML Contenteditable](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Contenteditable.md)

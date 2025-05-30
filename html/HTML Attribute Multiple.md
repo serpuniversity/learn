@@ -91,3 +91,10 @@ In select elements, enabling the multiple attribute changes the display from sin
 
 In select elements, most browsers provide native support for multiple selection, including keyboard accessibility features such as Ctrl/Command + click for selecting multiple options and space-based selection for non-contiguous items. For file input elements, the attribute allows multiple file selection through platform-specific mouse operations, while email inputs accept comma-separated addresses with proper validation. The attribute adheres to HTML standards and browser compatibility guidelines, with detailed implementation guidance provided in the HTML specifications.
 
+## References
+
+- [HTML Comments](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Comments.md)
+- [HTML The Document Title Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Document%20Title%20Element.md)
+- [HTML Optgroup The Option Group Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Optgroup%20The%20Option%20Group%20Element.md)
+- [HTML Blockquote The Block Quotation Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Blockquote%20The%20Block%20Quotation%20Element.md)
+- [HTML Class](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Class.md)

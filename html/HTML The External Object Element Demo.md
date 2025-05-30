@@ -102,3 +102,10 @@ Alternatives to `<object>` and `<embed>` have emerged to address specific use ca
 
 Best practices suggest evaluating specific content requirements against available element options. For general content embedding, the `<iframe>` element often provides the most reliable and feature-rich solution. For specialized media types, the native `<audio>` and `<video>` elements offer superior browser support and performance characteristics. Developers should consider these factors alongside `<object>` and `<embed>` when designing web content solutions.
 
+## References
+
+- [HTML Figcaption The Figure Caption Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Figcaption%20The%20Figure%20Caption%20Element.md)
+- [HTML The Article Contents Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Article%20Contents%20Element.md)
+- [HTML Using Microdata In HTML](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Using%20Microdata%20In%20HTML.md)
+- [HTML Thead The Table Head Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Thead%20The%20Table%20Head%20Element.md)
+- [HTML Attribute Crossorigin](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Crossorigin.md)

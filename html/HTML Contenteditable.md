@@ -158,3 +158,10 @@ Contenteditable elements can maintain their formatting integrity during paste op
 
 When integrating contenteditable with custom styling, developers must consider the attribute's impact on browser compatibility. While modern browsers fully support contenteditable, older versions may exhibit limitations, particularly when applied to table elements or nested child elements. To maintain consistent behavior across all supported browsers, developers should implement a consistent layer of functionality on top of contenteditable, addressing known browser inconsistencies and limitations.
 
+## References
+
+- [HTML The Button Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Button%20Element.md)
+- [HTML Tbody The Table Body Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Tbody%20The%20Table%20Body%20Element.md)
+- [HTML Fencedframe The Fenced Frame Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Fencedframe%20The%20Fenced%20Frame%20Element.md)
+- [HTML br The Line Break Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20br%20The%20Line%20Break%20Element.md)
+- [HTML div The Content Division Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20div%20The%20Content%20Division%20Element.md)

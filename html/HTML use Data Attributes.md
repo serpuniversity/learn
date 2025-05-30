@@ -253,3 +253,10 @@ rather than:
 
 - Store only small amounts of information in data attributes
 
+## References
+
+- [HTML Table The Table Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Table%20The%20Table%20Element.md)
+- [HTML Relnoreferrer](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Relnoreferrer.md)
+- [HTML The HTML Meter Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20HTML%20Meter%20Element.md)
+- [HTML Relme](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Relme.md)
+- [HTML The External Object Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20External%20Object%20Element.md)

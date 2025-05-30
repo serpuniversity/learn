@@ -66,3 +66,10 @@ Nesting `<tbody>` elements is not recommended and can cause unpredictable behavi
 
 When implementing multiple `<tbody>` elements, it's important to avoid placing them after `<tfoot>` elements, as this violates the HTML structure requirements. The correct placement ensures proper rendering and interpretation by browsers, particularly in scenarios where independent scrolling of table body sections is required while maintaining consistent header and footer content.
 
+## References
+
+- [HTML The Footer Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Footer%20Element.md)
+- [HTML br The Line Break Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20br%20The%20Line%20Break%20Element.md)
+- [HTML Class](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Class.md)
+- [HTML h1 h6 The HTML Section Heading Elements](https://github.com/serpuniversity/learn/blob/main/html/HTML%20h1%20h6%20The%20HTML%20Section%20Heading%20Elements.md)
+- [HTML s The Strikethrough Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20s%20The%20Strikethrough%20Element.md)

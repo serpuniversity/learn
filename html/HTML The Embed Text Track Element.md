@@ -125,3 +125,10 @@ Developers can manipulate tracks through the HTMLTrackElement interface, which p
 
 The API supports multiple engine implementations across major browsers, including Firefox 31+, Safari 6+, Chrome 23+, Opera 12.1+, Edge 79+, and Internet Explorer 10+. All current engines support the TextTrack interface and its properties, ensuring consistent track management functionality across platforms.
 
+## References
+
+- [HTML Head The Document Metadata Header Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Head%20The%20Document%20Metadata%20Header%20Element.md)
+- [HTML id](https://github.com/serpuniversity/learn/blob/main/html/HTML%20id.md)
+- [HTML Acronym](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Acronym.md)
+- [HTML th The Table Header Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20th%20The%20Table%20Header%20Element.md)
+- [HTML The Idiomatic Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Idiomatic%20Text%20Element.md)

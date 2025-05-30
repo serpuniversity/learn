@@ -70,3 +70,10 @@ The `<em>` tag's widespread compatibility across all major browsers means develo
 
 As web technologies continue to evolve, the balance between semantic markup and styling remains crucial. While CSS provides powerful tools for visual presentation, the `<em>` tag maintains its relevance by helping developers create more meaningful content structures. The element's combination of semantic power and wide browser support positions it as an essential tool in the modern web development toolkit.
 
+## References
+
+- [HTML Style](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Style.md)
+- [HTML The External Object Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20External%20Object%20Element.md)
+- [HTML use Cross Origin Images In A Canvas](https://github.com/serpuniversity/learn/blob/main/html/HTML%20use%20Cross%20Origin%20Images%20In%20A%20Canvas.md)
+- [HTML The Strong Importance Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Strong%20Importance%20Element.md)
+- [HTML The Figure With Optional Caption Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Figure%20With%20Optional%20Caption%20Element.md)

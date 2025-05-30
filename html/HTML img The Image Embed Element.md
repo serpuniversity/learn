@@ -124,3 +124,10 @@ Developers can also implement interactive features using JavaScript, including:
 
 - Implementing draggable card sliders
 
+## References
+
+- [HTML The Marquee Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Marquee%20Element.md)
+- [HTML The Document Title Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Document%20Title%20Element.md)
+- [HTML The Document Base URL Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Document%20Base%20URL%20Element.md)
+- [HTML Tabindex](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Tabindex.md)
+- [HTML The Picture Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Picture%20Element.md)

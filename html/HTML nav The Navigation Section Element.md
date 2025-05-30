@@ -130,3 +130,10 @@ When multiple `<nav>` elements are present, they must be labeled correctly to as
 
 While the `<nav>` element allows for nesting, this practice is uncommon and generally unnecessary (MDN Web Docs). The HTML Standard indicates that `<nav>` elements should represent whole sections of navigation links, not individual links (4.4.3 The nav element). Each `<nav>` element should clearly represent a distinct navigation landmark (HTML Standard).
 
+## References
+
+- [HTML The HTML Select Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20HTML%20Select%20Element.md)
+- [HTML Nobr The non Breaking Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Nobr%20The%20non%20Breaking%20Text%20Element.md)
+- [HTML Author Fast Loading HTML Pages](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Author%20Fast%20Loading%20HTML%20Pages.md)
+- [HTML Param The Object Parameter Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Param%20The%20Object%20Parameter%20Element.md)
+- [HTML The Embed Text Track Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Embed%20Text%20Track%20Element.md)

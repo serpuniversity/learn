@@ -131,3 +131,10 @@ For developers working with older HTML versions, the `<mark>` element maintains 
 
 The element's implementation across browsers demonstrates its versatility as a semantic marking tool. Its support for global attributes and event handlers enables developers to enhance user interaction while maintaining document structure (mark Tag in HTML). As a fundamental HTML5 element, the `<mark>` tag represents text marked for reference or notation purposes, providing a standardized way to highlight content across modern web platforms (mark – marked (highlighted) text (NEW) - HTML5).
 
+## References
+
+- [HTML The HTML Document Root Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20HTML%20Document%20Root%20Element.md)
+- [HTML Script Type Attribute](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Script%20Type%20Attribute.md)
+- [HTML The Noscript Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Noscript%20Element.md)
+- [HTML Marquee The Marquee Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Marquee%20The%20Marquee%20Element.md)
+- [HTML bdi The Bidirectional Isolate Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20bdi%20The%20Bidirectional%20Isolate%20Element.md)

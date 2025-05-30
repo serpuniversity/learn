@@ -189,3 +189,10 @@ The language has evolved significantly since its 1990 origins, with HTML5 introd
 
 The language's versatility spans multiple career paths, including front-end development, web design, full-stack development, and email development. For those new to web development, resources like cheat sheets, interview questions, and practice quizzes provide valuable supplementary materials for mastering HTML fundamentals.
 
+## References
+
+- [HTML Understanding Quirks And Standards Modes](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Understanding%20Quirks%20And%20Standards%20Modes.md)
+- [HTML Using HTML Form Validation And The Constraint Validation API](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Using%20HTML%20Form%20Validation%20And%20The%20Constraint%20Validation%20API.md)
+- [HTML wbr The Line Break Opportunity Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20wbr%20The%20Line%20Break%20Opportunity%20Element.md)
+- [HTML The Document Title Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Document%20Title%20Element.md)
+- [HTML Dialog The Dialog Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Dialog%20The%20Dialog%20Element.md)

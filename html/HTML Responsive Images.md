@@ -104,3 +104,10 @@ Implementation best practices include always providing width and height attribut
 
 By following these guidelines, developers can create responsive images that enhance user experience while maintaining optimal performance across all devices.
 
+## References
+
+- [HTML The Noscript Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Noscript%20Element.md)
+- [HTML Acronym](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Acronym.md)
+- [HTML Anchor](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Anchor.md)
+- [HTML Itemtype](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Itemtype.md)
+- [HTML is](https://github.com/serpuniversity/learn/blob/main/html/HTML%20is.md)

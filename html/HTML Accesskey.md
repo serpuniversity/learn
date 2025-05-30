@@ -107,3 +107,10 @@ Successfully implementing accesskeys relies heavily on user education and awaren
 
 Given the complexities and limitations of accesskeys, modern web development frameworks recommend alternative approaches for implementing keyboard navigation. The Web Accessibility Initiative (WAI) provides guidance through ARIA (Accessible Rich Internet Applications) roles and properties, which offer more flexible and standardized solutions for enhancing keyboard accessibility without the pitfalls associated with accesskey implementation.
 
+## References
+
+- [HTML Reference](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Reference.md)
+- [HTML Understanding Quirks And Standards Modes](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Understanding%20Quirks%20And%20Standards%20Modes.md)
+- [HTML Microdata](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Microdata.md)
+- [HTML The Image map Area Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Image%20map%20Area%20Element.md)
+- [HTML use Cross Origin Images In A Canvas](https://github.com/serpuniversity/learn/blob/main/html/HTML%20use%20Cross%20Origin%20Images%20In%20A%20Canvas.md)

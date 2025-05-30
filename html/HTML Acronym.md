@@ -124,3 +124,10 @@ To maintain semantic clarity and ensure consistent behavior across browsers, aut
 
 5. Test in multiple browser environments to ensure consistent rendering and accessibility functionality
 
+## References
+
+- [HTML Attribute Disabled](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20Disabled.md)
+- [HTML img The Image Embed Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20img%20The%20Image%20Embed%20Element.md)
+- [HTML A The Anchor Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20A%20The%20Anchor%20Element.md)
+- [HTML Guides](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Guides.md)
+- [HTML bdi The Bidirectional Isolate Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20bdi%20The%20Bidirectional%20Isolate%20Element.md)

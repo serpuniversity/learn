@@ -123,3 +123,10 @@ A common implementation pattern involves controlling the inert attribute through
 
 When implementing the inert attribute, developers should consider its impact on assistive technologies and user experience. Like other visibility-related properties, inert elements lack default visual indication of their state, which can lead to user confusion. It's recommended to clearly mark active and inert parts of the DOM through visual differentiation, particularly for users who rely on visual feedback to understand page structure and content availability. For individual controls, the disabled attribute remains more appropriate to maintain proper accessibility standards.
 
+## References
+
+- [HTML del The Deleted Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20del%20The%20Deleted%20Text%20Element.md)
+- [HTML The Document Title Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Document%20Title%20Element.md)
+- [HTML Blockquote The Block Quotation Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Blockquote%20The%20Block%20Quotation%20Element.md)
+- [HTML The Data Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Data%20Element.md)
+- [HTML col The Table Column Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20col%20The%20Table%20Column%20Element.md)

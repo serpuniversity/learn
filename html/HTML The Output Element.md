@@ -112,3 +112,10 @@ While older browsers may have limited support, progressive enhancement technique
 
 The `<output>` element's adaptability makes it suitable for scenarios requiring real-time feedback, server-side calculations, or dynamic content updates. As web applications continue to evolve, this specialized HTML5 feature remains a valuable tool for interactive forms and dynamic web applications.
 
+## References
+
+- [HTML Autocapitalize](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Autocapitalize.md)
+- [HTML dir The Directory Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20dir%20The%20Directory%20Element.md)
+- [HTML Using The Viewport Meta Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Using%20The%20Viewport%20Meta%20Element.md)
+- [HTML Attribute rel](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20rel.md)
+- [HTML The Document Base URL Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Document%20Base%20URL%20Element.md)

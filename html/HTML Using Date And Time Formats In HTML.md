@@ -78,3 +78,10 @@ Specific element types for date and time data include `<input>` types for date, 
 
 The `<time>` element's datetime attribute supports three primary formats: date (YYYY-MM-DD), datetime (with time zone - YYYY-MM-DDThh:mm:ss.Z), and datetime-local (no time zone - YYYY-MM-DDThh:mm:ss). This attribute enables precise temporal information to be marked up in a machine-readable format compatible with both human consumption and automated processing across major web platforms.
 
+## References
+
+- [HTML The Centered Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Centered%20Text%20Element.md)
+- [HTML dfn The Definition Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20dfn%20The%20Definition%20Element.md)
+- [HTML Optgroup The Option Group Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Optgroup%20The%20Option%20Group%20Element.md)
+- [HTML Input The HTML Input Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Input%20The%20HTML%20Input%20Element.md)
+- [HTML Dialog The Dialog Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Dialog%20The%20Dialog%20Element.md)

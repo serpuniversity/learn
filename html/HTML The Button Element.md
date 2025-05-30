@@ -188,3 +188,10 @@ Use the aria-pressed attribute to convey button state information. Avoidaria-che
 
 Follow Web Content Accessibility Guidelines (WCAG) for color contrast: maintain a 4.5:1 contrast ratio for text content and 3:1 for large text (18.66px or larger, or 24px or larger with bold font weight). Use tools like the WebAIM Color Contrast Checker and MDN Understanding WCAG for detailed guidance.
 
+## References
+
+- [HTML dl The Description List Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20dl%20The%20Description%20List%20Element.md)
+- [HTML The Image map Area Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20The%20Image%20map%20Area%20Element.md)
+- [HTML big The Bigger Text Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20big%20The%20Bigger%20Text%20Element.md)
+- [HTML Slot](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Slot.md)
+- [HTML Lang](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Lang.md)

@@ -96,3 +96,10 @@ CSS can also control link appearance based on the containing element's state. a:
 
 For more complex animations, developers can use transitions and animations to create sophisticated link behaviors. Transition examples include smoothly changing text color or background when a link is hovered over, while animations enable more dynamic effects like link slide-ins or scale changes upon click. These techniques provide developers with extensive control over the visual feedback users receive when interacting with hyperlinks.
 
+## References
+
+- [HTML xmp](https://github.com/serpuniversity/learn/blob/main/html/HTML%20xmp.md)
+- [HTML Attribute min](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Attribute%20min.md)
+- [HTML li The List Item Element Demo](https://github.com/serpuniversity/learn/blob/main/html/HTML%20li%20The%20List%20Item%20Element%20Demo.md)
+- [HTML Fencedframe The Fenced Frame Element](https://github.com/serpuniversity/learn/blob/main/html/HTML%20Fencedframe%20The%20Fenced%20Frame%20Element.md)
+- [HTML h1 h6 The HTML Section Heading Elements](https://github.com/serpuniversity/learn/blob/main/html/HTML%20h1%20h6%20The%20HTML%20Section%20Heading%20Elements.md)
