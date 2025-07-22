@@ -2,9 +2,12 @@
 
 ## Table of Contents
 
+- Learn Command Line
 - [Learn CSS](https://github.com/serpuniversity/learn/tree/main/css/_TOC.md)
+- Learn Git
 - [Learn HTML](https://github.com/serpuniversity/learn/tree/main/html/_TOC.md)
 - [Learn JavaScript](https://github.com/serpuniversity/learn/blob/main/javascript/_TOC.md)
+- Learn SEO
 
 
 ## CSS
